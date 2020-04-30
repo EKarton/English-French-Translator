@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Allow files and folders with a pattern starting with !
+!Translator/models/Hansard-Multi30k/*
+!Translator/src/dataloader/*
+!Translator/src/model/*
+
+!Translator-Webapi/app.py
+!Translator-Webapi/models.py
+!Translator-Webapi/requirements.txt
+
+!Webapp/static/
+!Webapp/templates/
+!Webapp/app.py
+!Webapp/models.py
+!Webapp/requirements.txt
