@@ -1,0 +1,1208 @@
+Débats du Sénat (hansard) 
+1ère Session, 36 e Législature, 
+Volume 137, Numéro 119 
+Le jeudi 11 mars 1999 
+L'honorable Gildas L. Molgat, Président 
+Table des matières 
+DÉCLARATIONS DE SÉNATEURS 
+Les Jeux d'hiver 
+L'informatique 
+Le problème de l'an 2000 
+Visiteurs de marque 
+AFFAIRES COURANTES 
+La Loi sur l'accès à l'information 
+Projet de loi modificatif-Rapport du comité 
+L'hormone de croissance recombinante bovine 
+Dépôt du rapport intérimaire du comité de l'agriculture et des forêts sur l'étude de son effet sur la santé des humains et des animaux 
+La Loi sur le transport aérien 
+Projet de loi modificatif-Rapport du comité 
+La Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces 
+Projet de loi modificatif-Première lecture 
+L'Association parlementaire Canada-Europe 
+L'Organisation pour la sécurité et la coopération en Europe-La réunion de l'Assemblée parlementaire à Vienne, en Autriche-dépôt du rapport de la délégation canadienne 
+Énergie, environnement et ressources naturelles 
+Avis de motion portant autorisation au comité de reporter la date de son rapport final 
+Les droits de la personne au Tibet 
+Avis de motion visant à exhorter le gouvernement de Chine à reconnaître le droit à l'autodétermination et les droits humains des Tibétains 
+La réforme de la justice et la violence à l'endroit des femmes 
+Le discours prononcé lors d'une conférence organisée par UNIFEM et l'ACDI-Avis d'interpellation 
+PÉRIODE DES QUESTIONS 
+Les finances nationales 
+Les modifications législatives nécessaires pour moderniser, rationaliser et renforcer le secteur des services financiers-La position du gouvernement 
+Les relations Canada-France 
+La transgression présumée des règles internationales-La position du gouvernement 
+La juridiction du Québec en matière de culture française-La position du gouvernement 
+Le débat sur la pluralité et la diversité culturelles-La position du gouvernement 
+La défense nationale 
+La fermeture de la BFC Cornwallis-Le déplacement des vitraux commémoratifs de la chapelle St. George-Demande de réponse 
+L'agriculture 
+La crise économique dans les provinces des Prairies-L'urgent besoin d'un programme de soutien agricole-La position du gouvernement 
+La Sanction royale 
+Avis 
+ORDRE DU JOUR 
+Privilèges, Règlement et procédure 
+Étude du neuvième rapport du comité-Ajournement du débat 
+Le budget 1999 
+L'exposé du ministre des Finances-Interpellation-Suite du débat 
+Le solliciteur général 
+La Commission d'enquête sur le traitement infligé par la GRC aux manifestants lors de la conférence de l'APEC-L'aide financière accordée pour la défense des étudiants-Adoption de la motion 
+L'Accord multilatéral sur l'investissement 
+Interpellation-Fin du débat 
+L'élection du Canada au Conseil de sécurité des Nations Unies 
+Interpellation-Report du débat 
+La sécurité en Europe 
+Interpellation-Ajournement du débat 
+Affaires étrangères 
+Les réformes du Fonds monétaire international-Autorisation au comité d'étudier la question-Modification de l'avis de motion 
+Le Canada et le défi nucléaire 
+Motion d'approbation du rapport du comité des affaires étrangères et du commerce international-Recours au Règlement-Suspension du débat 
+Recours au Règlement 
+Sanction Royale 
+Le Canada et le défi nucléaire 
+Motion d'approbation du rapport du comité des affaires étrangères et du commerce international-Recours au Règlement-Prise en délibéré de la décision par la présidence 
+L'ajournement 
+LE SÉNAT 
+Le jeudi 11 mars 1999 
+La séance est ouverte à 14 heures, le Président, étant au fauteuil.  
+Prière.  
+Les Jeux d'hiver 
+L'honorable Fernand Robichaud :
+Honorables sénateurs, la clôture des Jeux d'hiver avait lieu samedi dernier à Corner Brook, Terre-Neuve. 
+Plus de 3 200 athlètes et 600 entraîneurs ont participé à ces jeux qui rassemblaient des gens de partout au pays.  
+La ville de Corner Brook a démontré au Canada tout entier le chaleureux accueil et la grande hospitalité qu'elle a réservés à tous les gens qui étaient présents pour ce grand événement. 
+Les 7 000 bénévoles ont fait en sorte que le tout s'est déroulé dans une atmosphère cordiale.  
+Je profite de l'occasion pour féliciter les athlètes du Nouveau-Brunswick qui ont participé à ces jeux et qui ont bien représenté notre province. 
+Je dis bravo aux organisateurs, aux bénévoles, aux athlètes et surtout aux gens de Corner Brook pour avoir fait de ces Jeux d'hiver un succès éclatant.  
+Je profite également de l'occasion pour inviter les Canadiens et les Canadiennes à venir aux premiers Jeux de la francophonie canadienne qui regrouperont les francophones et francophiles du Canada. 
+Plus de 1 000 participants et participantes y seront. 
+Ces jeux auront lieu à Memramcook, au Nouveau-Brunswick, l'été prochain, soit du 19 au 22 août, juste avant le Sommet international de la Francophonie. 
+Ces jeux auront une composante innovatrice, car en plus du volet sportif, il y aura un volet artistique. 
+C'est une première au Canada. 
+L'informatique 
+Le problème de l'an 2000 
+L'honorable Donald H. Oliver :
+Honorables sénateurs, j'ai d'abord voulu faire une déclaration la semaine dernière, au sujet de l'importance du commerce électronique et de la nécessité d'une étude exhaustive de la question par le comité sénatorial permanent des banques. 
+Je suis ravi de vous informer que le comité a déjà entamé cette étude en réaction au rapport publié l'automne dernier par l'OCDE et dans lequel l'organisme dit estimer que la valeur annuelle du commerce électronique mondial va passer de ses 26 milliards de dollars US actuels à environ 1 billion de dollars US d'ici sept ans. 
+Jusqu'à maintenant, l'attitude du gouvernement fédéral à cet égard a surtout consisté à rassurer les Canadiens, à leur répéter que tout se passera bien, que leurs appareils électroménagers fonctionneront comme d'habitude, que les voitures démarreront et que les autobus et les trains demeureront ponctuels, mais il faudrait être un peu simple d'esprit pour croire qu'il n'y aura absolument aucun pépin. 
+Il y en aura, mais on peut les prévoir pour la plupart et, dans bien des cas, on pourra les régler soi-même bien avant la fin de l'année. 
+Malgré les mesures de préparation que nos institutions financières ont déjà prises, rien ne garantit que les guichets automatiques continueront de nous approvisionner en espèces sans interruption.  
+Nous ne réalisons pas pleinement à quel point nous dépendons de l'informatique. 
+Prenons comme exemple l'industrie de la production alimentaire. 
+Selon Les MacDougall, de la CIC Ltd. de Halifax, le bogue de l'an 2000 aura des répercussions à chaque étape du processus de production vivrière, depuis la production des semences jusqu'à la vente au détail, en passant par la culture des denrées, leur transport et leur transformation. 
+Toutes ces étapes requièrent l'intervention de gouvernements, de sources d'énergie et d'autres services publics, comme les télécommunications, qui sont tous tributaires d'une technologie sensible aux données. 
+Que devrions nous faire en tant que sénateurs? 
+Nous devrions peut-être étudier l'impact du bogue de l'an 2000 au sein d'un de nos comités permanents. 
+Voici quelques suggestions à ce sujet: retirer l'équivalent de deux semaines de salaire en espèces, stocker des provisions pour deux ou trois semaines, prévoir un moyen de chauffage qui ne soit pas vulnérable au bogue de l'an 2000 ou encore se procurer de l'eau pure ou un épurateur d'eau de façon à disposer d'eau potable pendant au moins deux semaines.  
+Le rôle qui incombe aux sénateurs en la matière, c'est celui d'informer les Canadiens sur les dispositions à prendre pour minimiser, dans la mesure du possible, les conséquences néfastes de la panne d'un système informatique sensible au temps. 
+Il faudrait veiller à ce que les Canadiens ne s'endorment pas dans une fausse sécurité et qu'ils soient prêts à tout le moins à faire face à des interruptions de service prévisibles.  
+Visiteurs de marque 
+Son Honneur le Président :
+Honorables sénateurs, je vous signale la présence à notre tribune de Mme Marie-Louise Rossi, directrice générale de l'International Underwriting Association de Londres, en Angleterre, et de M. David Matcham. 
+Ils sont ici en qualité d'invités du comité sénatorial des banques.  
+Je leur souhaite la bienvenue au Sénat.  
+AFFAIRES COURANTES 
+La Loi sur l'accès à l'information 
+Projet de loi modificatif-Rapport du comité 
+L'honorable Lowell Murray , président du comité sénatorial permanent des affaires sociales, des sciences et de la technologie, présente le rapport suivant: 
+Le mardi 11 mars 1999 
+Le comité sénatorial permanent des affaires sociales, des sciences et de la technologie a l'honneur de présenter son 
+DIX-SEPTIÈME RAPPORT 
+Votre comité, auquel a été déféré le projet de loi C-208, Loi modifiant la Loi sur l'accès à l'information, conformément à l'ordre de renvoi du jeudi 11 février 1999, a étudié ledit projet de loi et en fait maintenant rapport sans modification.  
+Ont été jointes en annexe au présent rapport les observations de votre comité sur le projet de loi C-208.  
+Respectueusement soumis, 
+Son Honneur le Président :
+Honorables sénateurs quand lirons-nous ce projet de loi une troisième fois?  
+(Sur la motion du sénateur Maheu, la troisième lecture du projet de loi est inscrite à l'ordre du jour de la prochaine séance.)  
+L'hormone de croissance recombinante bovine 
+Dépôt du rapport intérimaire du comité de l'agriculture et des forêts sur l'étude de son effet sur la santé des humains et des animaux 
+L'honorable Leonard J. Gustafson :
+Honorables sénateurs, j'ai l'honneur de déposer le huitième rapport du comité sénatorial permanent de l'agriculture et des forêts, qui est un rapport intérimaire sur l'effet de la STbr sur la santé des humains et des animaux, conformément à l'ordre de renvoi au comité du jeudi 14 mai 1998. 
+Honorables sénateurs, conformément au paragraphe 97(3) du Règlement, je propose que l'étude de ce rapport soit inscrite à l'ordre du jour de la prochaine séance.  
+Son Honneur le Président :
+Honorables sénateurs, est-ce d'accord?  
+(La motion est adoptée.)  
+La Loi sur le transport aérien 
+Projet de loi modificatif-Rapport du comité 
+L'honorable Marie-P. 
+Poulin , présidente intérimaire du comité sénatorial permanent des transports et des communications, présente le rapport suivant: 
+Le jeudi 11 mars 1999 
+Le comité sénatorial permanent des transports et des communications a l'honneur de présenter son 
+DIXIÈME RAPPORT 
+Votre comité, auquel a été déféré le projet de loi S-23, Loi modifiant la Loi sur le transport aérien et portant mise en oeuvre d'un protocole portant modification de la Convention pour l'unification de certaines règles relatives au transport aérien international et portant mise en oeuvre de la Convention, complémentaire à la Convention de Varsovie, pour l'unification de certaines règles relatives au transport aérien international effectué par une personne autre que le transporteur contractuel, a, conformément à l'ordre de renvoi du mercredi 3 février 1999, étudié ledit projet de loi et en fait maintenant rapport sans amendement.  
+La présidente intérimaire, 
+Son Honneur le Président :
+Honorables sénateurs, quand lirons-nous ce projet de loi une troisième fois?  
+(Sur la motion du sénateur Poulin, la troisième lecture du projet de loi est inscrite à l'ordre du jour de la prochaine séance.)  
+La Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces 
+Projet de loi modificatif-Première lecture 
+Son Honneur le Président annonce qu'il a reçu des Communes un message accompagné du projet de loi C-65, Loi modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces.  
+(Le projet de loi est lu une première fois.)  
+Son Honneur le Président :
+Honorables sénateurs, quand lirons-nous ce projet de loi une deuxième fois?  
+(Sur la motion du sénateur Carstairs, la deuxième lecture du projet de loi est inscrite à l'ordre du jour de mardi prochain, le 16 mars 1999.) 
+L'Association parlementaire Canada-Europe 
+L'Organisation pour la sécurité et la coopération en Europe-La réunion de l'Assemblée parlementaire à Vienne, en Autriche-dépôt du rapport de la délégation canadienne 
+L'honorable Jerahmiel S. Grafstein :
+Honorables sénateurs, j'ai l'honneur de déposer, dans les deux langues officielles, le rapport de la délégation canadienne de l'Association parlementaire Canada-Europe à la réunion de la Commission permanente de l'Assemblée parlementaire de l'Organisation pour la sécurité et la coopération en Europe (AP OSCE) qui s'est tenue à Vienne, en Autriche, les 14 et 15 janvier 1999. 
+Énergie, environnement et ressources naturelles 
+Avis de motion portant autorisation au comité de reporter la date de son rapport final 
+L'honorable Nicholas W. Taylor :
+Honorables sénateurs, je donne avis que le mardi 16 mars 1999, je proposerai: 
+Que, par dérogation à l'ordre adopté par le Sénat le 23 octobre 1997, le comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles, autorisé en conformité au règlement 86(1) p ), à étudier les questions qui pourraient survenir occasionnellement se rapportant à l'énergie, l'environnement et les ressources naturelles au Canada, soit habilité à déposer son rapport final au plus tard le 31 mars 2000.  
+Les droits de la personne au Tibet 
+Avis de motion visant à exhorter le gouvernement de Chine à reconnaître le droit à l'autodétermination et les droits humains des Tibétains 
+L'honorable Consiglio Di Nino :
+Honorables sénateurs, je donne avis que mardi prochain, le 16 mars 1999, je proposerai: 
+Que le Sénat exhorte le gouvernement du Canada de se servir de ses bons offices pour exhorter le gouvernement de Chine à respecter le droit à l'autodétermination et les droits humains du peuple du Tibet et, en particulier, à respecter la Déclaration universelle des droits de l'homme ainsi que les résolutions adoptées par l'Assemblée générale de l'ONU en 1960, 1961 et 1965 affirmant ces droits à l'égard du peuple tibétain.  
+La réforme de la justice et la violence à l'endroit des femmes 
+Le discours prononcé lors d'une conférence organisée par UNIFEM et l'ACDI-Avis d'interpellation 
+L'honorable Anne C. Cools :
+Honorables sénateurs, conformément aux paragraphes 56(1), 56(2) et 57(2) du Règlement du Sénat , je donne avis que, dans deux jours, j'attirerai l'attention du Sénat: 
+a ) sur le discours prononcé par Mme la juge Claire L'Heureux-Dubé de la Cour suprême du Canada lors d'une conférence sur la réforme de la justice et la violence à l'endroit des femmes, organisée par UNIFEM et l'Agence canadienne de développement international (ACDI) et tenue au Centre de conférences du gouvernement le 8 mars 1999, soit à l'occasion de la Journée internationale de la femme; 
+b ) sur le travail de Mme la juge L'Heureux-Dubé au sein d'un organisme féministe international, Sakshi, qui préconise la réforme de la condition des femmes en Asie du Sud, et sur le rôle qu'elle joue pour «expliquer l'égalité et notre conception de l'égalité»; 
+c ) sur les discours prononcés à la même conférence par Diane Marleau, ministre pour la Coopération internationale et ministre responsable pour la Francophonie; Jean Augustine, députée; Hélène Lagacé, Centre canadien d'études et de coopération internationale (CECI); et Madonna Larbi, Centre international MATCH; 
+d ) sur les rapports dans les médias à propos du discours de Mme la juge L'Heureux-Dubé; 
+e ) sur les activités internationales menées dans d'autres pays par des juges des cours supérieures au Canada; 
+f ) sur le financement par l'Agence canadienne de développement international (ACDI) des activités internationales menées par des juges des cours supérieures au Canada; et 
+g ) sur le rôle du Parlement dans les activités menées dans d'autres pays par des juges des cours supérieures au Canada.  
+PÉRIODE DES QUESTIONS 
+Les finances nationales 
+Les modifications législatives nécessaires pour moderniser, rationaliser et renforcer le secteur des services financiers-La position du gouvernement 
+L'honorable W. David Angus :
+Honorables sénateurs, attendu que nous accueillons aujourd'hui des invités du secteur des services financiers du Royaume-Uni; attendu que nos voisins du sud ont récemment entrepris une vaste refonte législative afin de réorganiser la réglementation des services financiers; attendu que le Royaume-Uni a récemment entrepris, en vertu de sa loi sur l'administration des services financiers, une refonte complète de son système de services financiers; attendu que, l'automne dernier, le comité sénatorial permanent des banques et du commerce a recommandé à l'unanimité - à la suite d'une recommandation similaire unanime du comité des finances de l'autre endroit - que le gouvernement agisse rapidement pour moderniser, rationaliser et renforcer le secteur des services financiers du Canada, en particulier les banques et les assurances; et attendu que l'annonce faite hier par la Société canadienne d'évaluation du crédit reconnaît que le système financier canadien, en particulier le secteur bancaire, s'affaiblit; le leader du gouvernement au Sénat peut-il nous dire quand le gouvernement va déposer un projet de loi, dont nous avons un urgent besoin, pour moderniser, rationaliser et renforcer le secteur des services financiers au Canada?  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, attendu qu'il a été nécessaire d'assainir les finances publiques du Canada; attendu que le gouvernement, lorsqu'il est entré en fonctions, a hérité un déficit de 42 milliards de dollars; attendu que ce même gouvernement a présenté deux budgets équilibrés pour la première fois en 50 ans; et qu'il en a promis deux autres, ce qui donnera quatre budgets équilibrés pour la première fois depuis le début de la Confédération, le gouvernement examine évidemment la possibilité de présenter le projet de loi auquel faisait allusion l'honorable sénateur Angus. 
+Avec le temps, le gouvernement actuel a réussi à assainir les finances publiques du Canada, ce qui nous permettra d'aller de l'avant et de créer plus d'emplois pour les Canadiens. 
+Le sénateur Angus :
+Honorables sénateurs, attendu que le leader du gouvernement n'a pas répondu à la question et qu'il ignore la réponse; étant donné l'Accord de libre-échange et les constantes violations de cet accord de la part du gouvernement; et attendu que le gouvernement a refusé sans discernement et contre la volonté populaire d'autoriser les fusions bancaires au Canada, le leader du gouvernement pourrait-il répondre à la question?  
+Le sénateur Graham :
+Comme les honorables sénateurs le savent bien, le comité sénatorial permanent des banques et du commerce, dont le sénateur Angus est un membre estimé, a présenté un rapport sur les institutions financières et il continue de se pencher sur ce secteur. 
+Le gouvernement déposera bientôt une déclaration de principes qui définira notre vision du secteur des services financiers. 
+Ce sera un pas important dans le processus d'évaluation de tout développement à venir dans le secteur des banques et des institutions financières.  
+Les relations Canada-France 
+La transgression présumée des règles internationales-La position du gouvernement 
+L'honorable Noël A. Kinsella (chef adjoint suppléant de l'opposition) :
+Honorables sénateurs, ma question s'adresse au leader du gouvernement au Sénat. 
+J'aimerais d'abord souligner le fait que les relations entre le Canada et la France sont très importantes. 
+Elles sont importantes pour tout le Canada, pour la province de Québec et aussi pour ma province du Nouveau-Brunswick. 
+Le premier ministre a accusé hier la France et sa ministre de la Culture, Catherine Trautmann, de ne pas respecter les règles internationales. 
+Quelles sont ces règles internationales que la ministre française aurait violées?  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, la réaction du Canada était tout à fait justifiée compte tenu des circonstances. 
+Officieuse ou non, la rencontre organisée par la ministre de la Culture et des Communications de la France réunissait des représentants de plusieurs États souverains et traitait, selon les termes de l'invitation qui avait été transmise à notre ministre, de l'assemblée générale annuelle de la Banque interaméricaine de développement.  
+Le gouvernement du Canada est donc le seul qui puisse déterminer le mode de représentation acceptable pour la fédération et ses membres relativement aux autres États souverains et aux institutions internationales comme la banque.  
+La juridiction du Québec en matière de culture française-La position du gouvernement 
+L'honorable Pierre Claude Nolin :
+Honorables sénateurs, ma question s'adresse au leader du gouvernement au Sénat. 
+Je désire préciser que la réunion informelle que la ministre française de la Culture avait convoquée n'avait rien à voir avec ce que le ministre vient de nous dire, mais portait plutôt sur le développement municipal en Amérique du Sud.  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Non, pas du tout, honorables sénateurs. 
+La déclaration sur la culture qui a été signée par les gouvernements de la France et du Québec ne change rien à la situation. 
+Le débat sur la pluralité et la diversité culturelles-La position du gouvernement 
+L'honorable Pierre Claude Nolin :
+Honorables sénateurs, le 19 décembre dernier, le premier ministre français et celui du Québec ont émis un communiqué. 
+Je présume que le gouvernement du Canada a lu ce communiqué. 
+Les deux gouvernements reconnaissent la nécessaire participation au débat sur la pluralité et la diversité culturelles des États et gouvernements qui, comme le Québec, ont autorité en la matière. 
+Comment se fait-il que la ministre Copps n'ait pas réagi à ce moment-là?  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Ces liens ne peuvent toutefois être étendus à un contexte international sans le consentement explicite du Canada.  
+Le sénateur Nolin :
+Est-il vrai que la ministre Copps n'a pas été invitée à cette rencontre, qu'elle a décidé de s'inviter et que c'est à ce moment que la ministre française a décidé d'inviter la ministre du Québec?  
+Le sénateur Graham :
+Honorables sénateurs, je ne connais pas tous les détails à ce sujet.  
+L'honorable Jean-Claude Rivest :
+Honorables sénateurs, le porte-parole du gouvernement devrait réaliser que dans le domaine des relations entre le Québec et la France, Lester B. Pearson - premier ministre du Canada à l'époque qui avait une vision du Canada autrement plus éclairée que celle que nous connaissons sous le présent gouvernement - et Jean Lesage ont signé une entente qui consacrait les relations directes et privilégiées entre le Québec et la France à l'intérieur de la fédération canadienne. 
+Sur le plan du multilatéralisme des relations dans le domaine de la Francophonie, Brian Mulroney et Robert Bourassa ont établi les bases absolument compatibles au régime fédéral à l'intérieur du Sommet de la Francophonie, dans lequel le Québec parle pour lui-même, de même que le Canada. 
+Cela se fait en totale harmonie depuis des années.  
+Au lieu de faire une crise d'urticaire et de politiser de façon improductive, pourquoi le gouvernement du Canada n'a-t-il pas simplement - comme cela se fait à l'intérieur de l'Agence de coopération technique et culturelle des pays francophones ainsi qu'à l'intérieur des activités du Sommet de la Francophonie - agréé à la participation directe du gouvernement du Québec aux travaux de cette conférence? 
+Il aurait pu inviter, au nom de la francophonie canadienne, le gouvernement de l'Ontario et celui du Nouveau-Brunswick. 
+Ce dernier aurait pu parler avec autorité, par exemple, de la culture et du peuple acadiens à l'intérieur du Canada.  
+Au lieu de nourrir une attitude de confrontation avec le gouvernement du Québec - ce qui fait le bonheur de Lucien Bouchard - et fort des précédents qui existent depuis M. Pearson et qui ont été développés de façon remarquable par le gouvernement de M. Mulroney, n'aurait-il pas été plus sage, pour le gouvernement du Canada, de s'inspirer de ces gens qui avaient une vision du Québec et du Canada autrement plus saine que cette confrontation stérile très négative pour l'unité du pays qui caractérise la vision du gouvernement du Canada actuellement?  
+Le sénateur Graham :
+Honorables sénateurs, ce dont il s'agit ici, c'est du processus. 
+D'une part, le sénateur Nolin se demande pourquoi le gouvernement du Canada n'a pas protesté au moment de la signature de l'accord culturel. 
+D'autre part, le sénateur Rivest veut savoir pourquoi le gouvernement du Québec et le gouvernement du Canada ne peuvent pas participer conjointement.  
+Je le répète, il y a un moment où il faut fixer des limites. 
+Il faut attirer l'attention des personnes concernées. 
+La décision concernant la présence et les moyens de représenter la fédération canadienne et ses parties constituantes, si vous voulez, dans ses relations avec les autres États souverains est la prérogative exclusive du gouvernement du Canada. 
+La décision de la France d'inviter le gouvernement du Québec à participer à une réunion ministérielle coïncidant avec la réunion générale de la Banque interaméricaine de développement est incompatible avec la compétence du gouvernement fédéral en matière de relations internationales.  
+Le sénateur Rivest :
+Honorables sénateurs, si cela était compatible avec l'unicité de la politique étrangère du Canada, pourquoi le gouvernement canadien de M. Pearson a-t-il alors reconnu les relations directes et privilégiées, sans la présence officielle du Canada, entre le Québec et la France?  
+Pourquoi le Canada s'apprête-t-il à acceuillir au Nouveau-Brunswick une réunion de l'ensemble des pays francophones dans laquelle le Québec et le Nouveau-Brunswick ont une participation directe, égale et de même nature que celle du gouvernement canadien? 
+Il n'y a pas d'incompatibilité à ce sujet. 
+Malheureusement une vision à courte vue caractérise, malheureusement, le premier ministre du Canada en ce qui concerne les problèmes du Québec.  
+Le sénateur Graham :
+La décision a été prise par le gouvernement du Canada. 
+C'est comparable, par exemple, à inviter la Corse à venir au Canada pour une consultation ou une conférence sans prévenir le gouvernement français.  
+L'honorable Pierre De Bané :
+Chacun de ces gouvernements à Ottawa a reconnu, y compris M. Chrétien, l'existence de «relations directes et privilégiées». 
+Ce sont les mêmes mots employés par tous les gouvernements, contrairement à ce que laisse entendre le sénateur Rivest. 
+Il a laissé entendre que seulement deux premiers ministres ont employé ces mots.  
+Le sénateur Graham :
+Je remercie le sénateur De Bané de nous avoir rappelé ces importants faits historiques.  
+L'honorable Marcel Prud'homme :
+Honorables sénateurs, peu importe ce que certaines personnalités à Ottawa disent ou pensent, si le Canada doit exister, nul ne le désire plus que les sénateurs De Bané, Gauthier, Nolin, Rivest, Grimard, Bacon, Pépin, Mercier et Prud'homme.  
+Une chose est irréversible. 
+Il y aura toujours et de plus en plus des relations privilégiées entre la France et le Québec. 
+Ceci n'enlève rien aux relations privilégiées entre le Canada et la France sur le plan historique.  
+Au moment où les relations entre la France et le Canada, entre le très honorable premier ministre, mon ami Jean Chrétien et M. Jospin, entre Mme Copps, une amie, et Mme Trautmann, semblaient excellentes, pourquoi faut-il qu'Ottawa commence encore une fois à s'énerver? 
+La seule conclusion que je peux en tirer est que cela ne peut se faire qu'au détriment de ce que j'ai nommé les autres chefs. 
+C'est un pays qui sait reconnaître une différence frappante. 
+Elle sera de plus en plus remarquée et remarquable.  
+Monsieur le ministre, vous siégez au conseil des ministres. 
+Voulez-vous leur dire de mentionner à leurs conseillers de se calmer? 
+Nous ne pouvons qu'aggraver la situation face à un gouvernement du Québec désespéré de ne pouvoir atteindre ses objectifs de briser le Canada et qui cherche par tous les moyens possibles à profiter de toutes les peccadilles qui peuvent se produire dans nos relations avec la France. 
+Je vous ai toujours dit que je ne suis pas Québécois, je suis un Canadien français du Québec.  
+Le sénateur Graham :
+Honorables sénateurs, je remercie les sénateurs Prud'homme, Nolin, Rivest, De Bané et Kinsella de leurs interventions. 
+Je soutiens que la réaction du Canada a été tout à fait appropriée dans les circonstances. 
+La décision ne met pas en doute les relations importantes que la France et le Québec ont nouées avec l'approbation du gouvernement du Canada.  
+Je souligne que l'ambassadeur du Canada en France, Jacques Roy, a présenté des instances, à plusieurs occasions, aux paliers les plus élevés du gouvernement de la France, pour exprimer la vive inquiétude du Canada à l'égard de l'invitation. 
+Qui plus est, le premier ministre a également adressé une lettre au premier ministre de la France, le 9 mars.  
+Étant donné toutes les instances qui ont été présentées, ainsi que les observations très importances qui ont été exprimées dans cette Chambre, je me ferai un devoir et un plaisir de porter toutes les observations qui ont été faites à l'attention de mes collègues, notamment du premier ministre.  
+Le sénateur Nolin :
+Honorables sénateurs, le leader du gouvernement a fait référence, dans une réponse précédente, au problème corse. 
+J'ose croire que l'auteur de la note que vous lisez sait de quoi il parle. 
+Cette personne vous a-t-elle expliqué le problème corse? 
+Qu'on aime cela ou non, c'est un gouvernement démocratique. 
+En Corse, ce sont des révolutionnaires, des gens qui agissent hors la loi. 
+C'est comme si on comparait le problème corse au FLQ. 
+Mon collègue, le sénateur Rivest, y a fait allusion tout à l'heure. 
+J'espère que vous n'utiliserez plus cette comparaison.  
+Le sénateur Graham :
+Honorables sénateurs, j'assume l'entière responsabilité de ce que j'ai dit au sujet de la Corse. 
+Cette référence ne venait d'aucune note d'information ni d'aucune autre source. 
+Si je fais erreur ou si l'on m'a donné la mauvaise impression, je prie mes honorables collègues de faire preuve d'indulgence.  
+Le sénateur Prud'homme :
+Honorables sénateurs, le ministre pourrait-il s'engager à faire une recommandation à ses collègues au sujet du terme «approuver», qui a différentes connotations?  
+Dans la province de Québec, la plus francophone, on utilise le mot «approve».  
+Cela me rappelle les estampilles «Approuvé-Canada» que nous voyons sur les morceaux de viande. 
+C'est un peu comme si l'on disait que le Québec est un petit bébé qui a besoin d'approbation. 
+Il faudrait se départir du mot «approuver» lorsqu'on parle de ces relations.  
+Son Honneur le Président :
+J'aimerais signaler que la période des questions est une période de questions, et non une période de débats.  
+La défense nationale 
+La fermeture de la BFC Cornwallis-Le déplacement des vitraux commémoratifs de la chapelle St. George-Demande de réponse 
+L'honorable Gerald J. Comeau :
+Le ministre a-t-il une réponse?  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, l'aumônier général des forces armées a décidé de laisser les vitraux là où ils se trouvent. 
+Lorsque j'ai demandé ce qu'il en était de ce problème, j'ai appris que cette décision avait été prise parce qu'il était préférable de laisser les vitraux dans une chapelle consacrée et qu'il serait déplacé de les installer dans des locaux qui sont simplement un musée.  
+Le sénateur Comeau :
+Honorables sénateurs, le ministre voudra peut-être rappeler à l'aumônier général que la chapelle de Cornwallis doit être consacrée en mai, et que la cérémonie coïncidera avec l'anniversaire de la bataille de l'Atlantique. 
+De plus, l'Association royale canadienne de la marine retourne cette été pour une réunion à son ancienne base d'entraînement des recrues.  
+La chapelle de Shannon Park est fermée six jours par semaine. 
+Il y a donc un moins grand nombre de personnes qui contempleront les vitraux et il y a bien plus de risques que les vitraux soient abîmés. 
+La chapelle de Cornwallis est ouverte sept jours par semaine. 
+Les arguments de l'aumônier général ne tiennent pas debout. 
+Il est grand temps que nous fassions ce qu'il faut et que nous ramenions les vitraux à leur vraie place, leur place historique. 
+J'aimerais avoir l'appui du ministre de la Nouvelle-Écosse pour ce projet.  
+Le sénateur Graham :
+Honorables sénateurs, je vais très certainement transmettre ces instances au ministre de la Défense nationale, qui en discutera avec l'aumônier général.  
+Si je ne m'abuse, les vitraux commémoratifs en question sont actuellement installés dans une chapelle qui se trouve sur la plus grande base navale du Canada, à Halifax. 
+Ils rappellent aux membres des Forces canadiennes et aux membres de leurs familles qui fréquentent cette chapelle des sacrifices et des traditions dont ils sont fiers.  
+J'ignorais que la chapelle de Shannon Park était ouverte seulement un jour par semaine. 
+D'après le sénateur Comeau, la chapelle de Cornwallis est ouverte sept jours sur sept. 
+Selon l'aumônier général, les vitraux commémoratifs sont des cadeaux vivants qui appartiennent dans une chapelle consacrée, comme je l'ai mentionné plus tôt. 
+Ce ne sont pas des reliques à remiser dans ce qu'on appelle un musée. 
+La décision de laisser les vitraux à Halifax a été prise par l'Aumônier général, appuyé par le ministre de la Défense nationale. 
+Je suis heureux de le signaler au sénateur.  
+L'agriculture 
+La crise économique dans les provinces des Prairies-L'urgent besoin d'un programme de soutien agricole-La position du gouvernement 
+L'honorable Leonard J. Gustafson :
+Honorables sénateurs, au cours d'une assemblée agricole tenue à Regina, et à laquelle assistaient 1 500 personnes, on m'a demandé de poser la question que je m'apprête à poser au leader du gouvernement au Sénat. 
+Les agriculteurs de la région ont voté pour envoyer un message à Ottawa disant qu'ils sont très inquiets du fait qu'aucun des ministres invités n'a assisté à l'assemblée publique. 
+En fait, ils ont même demandé leur démission.  
+Au coeur de ce problème, il y a la situation très grave à laquelle sont confrontés les agriculteurs des Prairies. 
+La crise est plus grave que celle des années de sécheresse. 
+Les niveaux de revenu ont chuté d'environ 70 p. 100. 
+Ils sont révoltés contre ce programme et contre la façon dont il sera appliqué. 
+Des agriculteurs m'ont demandé si je ne pourrais pas présenter une requête au Sénat pour que le gouvernement leur verse un paiement à l'acre qui leur procurerait un peu d'argent avant le temps des semailles.  
+Je voudrais savoir si le leader du gouvernement au Sénat fera part de mes instances au Cabinet. 
+Ce n'est sûrement pas la dernière fois qu'il entendra parler de cette situation, car elle est très grave.  
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, je remercie l'honorable sénateur Gustafson de nous signaler ce problème. 
+Nous en avons discuté souvent et longuement au cours des séances du Sénat alors que le ministre de l'Agriculture tâchait très assidûment de mettre sur pied le programme de secours agricole qu'il a annoncé avant les vacances des fêtes. 
+Je tiens à assurer à l'honorable sénateur que le ministre Vanclief et le ministre Goodale, qui a certaines responsabilités à cet égard, abordent tous deux régulièrement cette question avec leurs collègues du Cabinet.  
+Nous éprouvons de la compassion pour nos concitoyens canadiens, tout comme les Canadiens de tout le pays éprouvent de la compassion pour la situation difficile des mineurs du Cap-Breton.  
+Quoi qu'il en soit, je puis assurer à mon honorable collègue que je porterai ces instances à l'attention de mes collègues.  
+La Sanction royale 
+Avis 
+Son Honneur le Président informe le Sénat qu'il a reçu la communication suivante: 
+Le 11 mars 1999 
+Monsieur le Président, 
+J'ai l'honneur de vous aviser que l'honorable J. E. Michel Bastarache, juge puîné de la Cour suprême du Canada, en sa qualité de Gouverneur général suppléant, se rendra à la Chambre du Sénat, aujourd'hui, le 11 mars 1999 à 16 h 30, afin de donner la sanction royale à certains projets de loi.  
+Le secrétaire du Gouverneur général, Judith A. LaRocque 
+L'honorable 
+Président du Sénat 
+ORDRE DU JOUR 
+Privilèges, Règlement et procédure 
+Étude du neuvième rapport du comité-Ajournement du débat 
+Le Sénat passe à l'étude du neuvième rapport du comité permanent des privilèges, du Règlement et de la procédure (sénateurs indépendants), présenté au Sénat le 10 mars 1999.-( L'honorable sénateur Maheu ). 
+- Honorables sénateurs, je suis très heureuse de prendre la parole aujourd'hui pour présenter le neuvième rapport du comité permanent des privilèges, du Règlement et de la procédure concernant les sénateurs indépendants.  
+Ce rapport est d'une grande importance car il permettra aux sénateurs indépendants de devenir membres à part entière des comités du Sénat.  
+Je suis particulièrement heureuse et fière de voir ce projet finalement arriver à terme. 
+En effet, je crois qu'il est grand temps que les sénateurs indépendants reprennent leurs droits et qu'ils recommencent à participer activement aux travaux des comités du Sénat. 
+Vous comprendrez cependant, honorables sénateurs, que le chemin parcouru pour arriver à ce rapport a été ardu et que de nombreuses embûches se sont dressées devant nous. 
+Toutefois, notre ferme intention de voir les sénateurs indépendants reprendre leur juste place nous a permis de surmonter ces obstacles, qui relevaient souvent de questions purement procédurales, pour produire enfin ce rapport.  
+L'autre raison pour laquelle je suis tellement satisfaite de ce rapport, c'est que tout le monde ici bénéficiera de la présence et de la participation active à nos comités de sénateurs indépendants.  
+D'ailleurs, les sénateurs indépendants seront beaucoup plus intéressés de prendre part aux travaux des comités étant donné que leur voix sera entendue et qu'ils auront le droit de vote. 
+Je suis persuadée qu'ils seront très enthousiastes et qu'ils participeront activement aux travaux de nos comités. 
+Je suis sûre aussi qu'ils deviendront des membres dévoués des comités.  
+Je crois fermement que nous bénéficierons tous de leur présence. 
+Leur compétence et le sagesse nous seront d'un grand secours à tous et devraient rendre nos comités encore plus efficaces.  
+Maintenant, honorables sénateurs, je désire prendre quelques minutes de plus afin de répondre aux questions, soulevées lors de la séance du 9 mars dernier, des sénateurs Kinsella et Robertson en ce qui a trait aux heures de séance du comité des privilèges, du Règlement et de la procédure.  
+Je voudrais tout d'abord vous rappeler que la question du sénateur Kinsella portait sur les heures normales des séances du comité. 
+J'insiste sur le mot «normales». 
+J'ai répondu que le comité se réunissait tous les mardis, après l'ajournement du Sénat, ce qui est la vérité.  
+Mais voilà que ma réponse semble jeter les sénateurs d'en face dans la confusion la plus totale. 
+Ceux-ci semblent incapables de comprendre que la réunion du 9 mars 1999, et ce, de façon exceptionnelle, devait se tenir après l'ajournement du Sénat, mais pas avant 18 heures. 
+Qu'y a-t-il de si compliqué à comprendre?  
+Par ailleurs, si le Sénat avait ajourné à 18 heures, la réunion aurait commencé immédiatement après, tout en tenant compte du laps de temps qu'il faut aux gens pour se déplacer d'un endroit à l'autre.  
+J'aimerais rappeler au sénateur Kinsella que si sa question avait été plus claire et qu'il m'avait demandé l'heure de séance du comité pour la rencontre du 9 mars 1999, tout ce débat futil et inutile aurait pu être évité.  
+Je crois comprendre que la mémoire du sénateur Robertson lui fait défaut. 
+En effet, celle-ci ne semble pas avoir souvenir que le comité des privilèges, du Règlement et de la procédure a déjà été boycotté par les membres de l'opposition. 
+C'est pourquoi je lui rappellerai qu'à la réunion du 19 mars 1998, ni elle ni aucun de ses collègues d'en face n'étaient présents. 
+Cette absence des membres de l'opposition avait été consignée au procès-verbal de ladite réunion.  
+De plus, je comprends très mal la réaction du sénateur Robertson. 
+Celle-ci se plaint que l'avis, indiquant que la réunion se tiendrait à l'ajournement du Sénat, mais pas avant 18 heures, a été reçu par elle vers 15 h 45 et que cela lui laissait peu de temps. 
+La question que je me pose est: «Peu de temps pour quoi?»  
+En effet, la réunion était déjà prévue depuis longtemps et le retard occasionné par ce léger changement à l'horaire ne pouvait donc être que de quelques minutes. 
+Quel préjudice subit-elle donc?  
+Ainsi, c'est peut-être encore cette mémoire qui a fait défaut et qui a fait qu'elle est arrivée avec plus d'une heure de retard à la réunion du comité du programme et de la procédure du 2 février 1999. 
+Finalement, j'aimerais terminer mon allocution à ce sujet en mentionnant qu'au cours de ce débat, un collègue a émis un commentaire des plus surprenants. 
+En effet, au lieu de proposer une solution constructive afin de régler le différend, il a préféré proposer l'annulation pure et simple de la réunion. 
+Voilà une attitude qui correspond à la loi du moindre effort.  
+Honorables sénateurs, ce sont de tels comportements qui peuvent miner la réputation du Sénat. 
+Ceux-ci ne doivent plus être passés sous silence et ne doivent plus être permis.  
+Que les sénateurs indépendants feraient une demande au comité de sélection; 
+Qu'un sénateur indépendant ne pourrait pas être membre de plus de deux comités; 
+Que seulement un sénateur indépendant soit permis pour chaque comité; et 
+Qu'en cas d'absence, le sénateur indépendant ne pourrait pas se faire remplacer au comité.  
+L'honorable Brenda M. Robertson :
+Honorables sénateurs, après ces observations superflues, je propose l'ajournement du débat.  
+L'honorable A. Raynell Andreychuk :
+Honorables sénateurs, ma collègue peut-elle éclairer ma lanterne à l'égard de cette résolution et des recommandations en me disant ce qu'est un «sénateur indépendant»?  
+Le sénateur Maheu :
+Les sénateurs indépendants sont les sénateurs qui n'ont pas été nommés en tant que conservateurs ou membres du parti ministériel.  
+Le sénateur Andreychuk :
+Je crois savoir que, conformément à la Constitution, nous sommes tous des sénateurs. 
+Je me demande donc où vous allez chercher cette expression de «sénateurs indépendants» et pourquoi vous l'employez. 
+S'agit-il seulement de sénateurs qui se déclarent indépendants après coup ou s'agit-il de sénateurs qui sont indépendants dans leur pensée, leurs décisions et leur conduite?  
+Le sénateur Maheu :
+Il s'agit de sénateurs qui ont été nommés en tant qu'indépendants. 
+Ils acceptent leur nomination et ils ne font partie ni du caucus conservateur, ni du caucus libéral. 
+Ils décident d'être désignés ou nommés sénateurs indépendants.  
+L'honorable Marcel Prud'homme :
+Honorables sénateurs, mes commentaires s'adressent directement au sénateur Robertson, par l'entremise du sénateur Maheu. 
+J'espère que les aspirations des sénateurs indépendants ne seront pas anéanties dans un débat interminable.  
+Le sénateur Maheu :
+Je ne pense pas qu'il arrive quoi que ce soit de fâcheux aux aspirations des sénateurs indépendants. 
+Je suis certaine que les sénateurs des deux côtés ont hâte de régler ce problème.  
+(Sur la motion du sénateur Robertson, le débat est ajourné.)  
+Le budget 1999 
+L'exposé du ministre des Finances-Interpellation-Suite du débat 
+L'ordre du jour appelle: 
+Reprise du débat sur l'interpellation de l'honorable sénateur Lynch-Staunton, attirant l'attention du Sénat sur le budget présenté par le ministre des Finances à la Chambre des communes le 16 février 1999.-( L'honorable sénateur Graham, c.p. ) .  
+L'honorable Norman K. Atkins :
+Honorables sénateurs, alors que je participe aujourd'hui au débat sur le budget, personne au Sénat ne s'étonnera que je formule certaines critiques à l'égard du dernier budget. 
+Il serait toutefois irresponsable de ma part de seulement critiquer. 
+Je pense qu'en tant que membres d'une opposition, notamment une opposition parlementaire qui a à coeur l'unité canadienne et qui veut représenter les Canadiens d'un océan à l'autre, nous devons nous montrer constructifs dans nos critiques. 
+Nous devons proposer des solutions de rechange tout en expliquant au gouvernement ses erreurs.  
+Cet après-midi, je parlerai de façon générale de l'état de l'économie canadienne, de ma perception des problèmes économiques et plus particulièrement des soins de santé, de l'éducation et des Forces armées canadiennes, trois secteurs qui, à mon avis, ont malheureusement été négligés dans ce budget.  
+Dans son exposé budgétaire du 16 février dernier, le ministre des Finances a fait une déclaration qui, à mon avis, montre bien la teneur des budgets. 
+Il a dit ceci: 
+Il est un fait incontournable: un budget utilise un vocabulaire bien particulier. 
+On y traite de taux et de ratios, de pourcentages et de décimales, de méthodes comptables et de mesures.  
+La raison d'être des budgets s'en trouve obscurcie. 
+Par-dessus tout, il s'agit de remettre les finances du pays sur une base solide.  
+Sur ce dernier point, je suis tout à fait d'accord avec le ministre. 
+Les budgets devraient servir à donner les moyens financiers aux Canadiens d'améliorer leur niveau de vie, tout en gérant les responsabilités budgétaires du pays comme il se doit. 
+Hélas, le budget de cette année n'atteint pas le noble objectif fixé par le ministre des Finances. 
+En fait, peu de Canadiens ont vu leur sort amélioré par suite du budget.  
+Cependant, c'est tout ce que peut donner un budget conçu par un gouvernement qui n'a pas de plan économique; un gouvernement qui ne fait preuve d'aucun leadership dans le domaine économique, ni dans les autres domaines d'ailleurs; un gouvernement qui, nous ne le savons que trop au Sénat, n'a pas de programme législatif; un gouvernement qui s'est déchargé d'une foule de fardeaux financiers sur les provinces, lesquelles ont fait de même avec les municipalités; un gouvernement qui, jusqu'à maintenant, n'a aucune vision de l'avenir à l'aube du XXIe siècle; un gouvernement dont la seule réaction à la crise économique, à l'effondrement du dollar canadien et de la bourse l'été dernier a été de dire que les fondements de l'économie étaient sains et qu'un dollar faible et des exportations bon marché étaient une bonne chose pour l'économie.  
+Eh bien, si c'est exact, comme l'a dit Scott Brison, le député progressiste-conservateur de Kings-Hants: 
+... le corollaire logique de cet argument serait que, si on réduit le dollar à néant en pratiquant des impôts élevés et en adoptant des politiques nuisibles à la productivité, on deviendra la plus grande nation exportatrice au monde.  
+Honorables sénateurs, nous ne pouvons pas parvenir à la prospérité par la dévaluation. 
+Nous ne pouvons pas non plus parvenir à la prospérité en faisant des réductions des dépenses à l'aveuglette tout en augmentant sans cesse les impôts.  
+Les transferts fédéraux aux provinces ont été réduits de plus de 6 milliards de dollars depuis 1995. 
+En 1993, les recettes fiscales fédérales s'élevaient à 114 milliards de dollars, contre 151 milliards de dollars maintenant. 
+Ces impôts accrus n'ont pas été affectés à des programmes ou services nouveaux ou meilleurs. 
+Au lieu de cela, les services ont été réduits ou éliminés ou assujettis à des droits d'utilisation.  
+Quel que soit leur salaire, les Canadiens paient plus et reçoivent moins. 
+Permettez-moi de parler brièvement des problèmes de notre économie et de la façon dont cela touche les politiques sociales si essentielles au Canada. 
+Nous ne pouvons oublier que l'activité économique n'est pas une fin en soi. 
+C'est un moyen pour atteindre une fin. 
+Elle donne la possibilité aux Canadiens d'aider à créer et à accroître la richesse du pays et de partager cette richesse. 
+C'est grâce à l'activité économique que nous pouvons atteindre les objectifs que nous avons en tant que société.  
+Cela est dû à une autre décision politique du gouvernement, semblable à ses décisions politiques d'annuler les contrats touchant l'aéroport Pearson et l'achat d'hélicoptères, décisions prises pour faire des gains politiques à court terme sans tenir compte des répercussions à long terme pour les Canadiens. 
+Un examen de nos exportations montre que la croissance de ces dernières est, en large partie, attribuable à une dévaluation de notre devise et à une croissance relativement faible des salaires.  
+Nous ne parvenons pas à attirer des investissements étrangers au Canada. 
+En 1985, la part du Canada des investissements étrangers directs était de 8,9 p. 100 du total mondial. 
+À l'heure actuelle, la principale lacune de notre économie réside, cependant, dans notre productivité très peu brillante en termes absolus et relatifs.  
+Depuis 1973, la productivité au Canada ne s'est accrue que de 0,3 p. 100 par année. 
+À ce rythme-là, il faudra 231 années avant que notre niveau de vie double. 
+Pourtant, entre 1960 et 1973, la productivité a augmenté d'environ 2 p. 100 par année, ce qui a permis au niveau de vie des Canadiens de doubler en seulement 35 ans.  
+Dans sa plus récente sur la situation économique du Canada, l'Organisation de coopération et de développement économiques, l'OCDE, décrit la situation de façon différente: 
+Comparativement aux petits pays membres de l'OCDE qui sont en pleine expansion...  
+... comme la France, l'Australie, l'Irlande et la Norvège...  
+... le Canada n'a pas suivi le rythme au cours des années 90: au lieu d'augmenter, la productivité totale des facteurs a diminué, expérience qu'aucun autre pays de l'OCDE auquel nous devrions nous comparer n'a partagée.  
+Selon l'OCDE, si notre productivité continue de stagner ainsi, le revenu par habitant au Canada pourrait grandement diminuer par rapport à la moyenne observée chez les pays de l'OCDE. 
+Nous ne pouvons tolérer une telle situation. 
+Toute baisse de la productivité entraîne une baisse du niveau de vie, ce qui pourrait compromettre les valeurs auxquelles les Canadiens tiennent le plus, c'est-à-dire la sécurité financière, les soins de santé, l'éducation et l'avenir de nos programmes sociaux.  
+Pour éviter ce grave problème économique, le gouvernement doit établir des objectifs d'amélioration de la productivité nationale dans un contexte de croissance économique.  
+Comment pouvons-nous devenir plus productifs? 
+Le Canada compte beaucoup de petites et moyennes entreprises qui sont moins tournées vers les marchés internationaux, moins innovatrices et, par conséquent, moins productives que leurs semblables dans d'autres pays. 
+Les politiques doivent apporter un remède à cette situation.  
+Les entreprises canadiennes doivent adopter les techniques de pointe, notamment en faisant usage des ordinateurs dans les usines et les bureaux. 
+Nous devons suivre les conseils de l'OCDE et investir davantage dans la recherche et le développement, puis utiliser les produits qui en découlent. 
+Nous devons aussi devenir plus innovateurs dans notre façon de penser et de résoudre les problèmes pour arriver à créer de nouveaux produits qui aideront le Canada à soutenir la concurrence sur les marchés mondiaux.  
+Le gouvernement peut encourager tout cela par le régime fiscal et l'utilisation créative des crédits d'impôts pour aider les entreprises à s'adapter aux nouvelles techniques. 
+La même chose peut être faite pour stimuler la recherche et le développement, mais il faut que ce soit la recherche et le développement qui conduisent à la mise au point de produits et de procédés trouvant des applications au Canada et augmentant la productivité.  
+Les crédits d'impôt visant à encourager l'introduction et l'application de nouvelles technologies par les petites et moyennes entreprises canadiennes sont particulièrement importants pour les entreprises qui peuvent exporter. 
+Cela les aidera à ajouter de la valeur à leurs produits avant qu'ils ne quittent le Canada, ce qui veut dire plus d'emplois pour les Canadiens dans le secteur de la fabrication et une productivité accrue. 
+Les Canadiens doivent être encouragés à investir au Canada et, par conséquent, dans leur propre avenir. 
+Notre taux d'investissement intérieur est maintenant bien inférieur à celui des autres pays industrialisés. 
+Le Canada doit aussi rétablir sa position en tant que destination de choix pour les investisseurs étrangers.  
+La responsabilité financière doit aussi comprendre la réduction de la dette nationale. 
+Nous devons établir et suivre un programme de réduction de la dette assorti d'objectifs clairs et réalistes. 
+Il faut être prudent dans l'établissement de ces objectifs. 
+Il ne serait peut-être pas déraisonnable de viser un ratio de la dette au PIB qui soit égal à la moyenne des pays du G-8 sur une période de cinq ans, par exemple, et non deux ans, comme le propose le gouvernement dans son budget.  
+Je partage le point de vue de l'actuaire de la caisse qui dit qu'un taux de cotisation de 2 $ par tranche de 100 $ de gains assurables est adéquat. 
+La tranche d'imposition devrait être indexée intégralement. 
+Il est ridicule qu'une personne ayant un revenu de 7 000 $ doive payer de l'impôt. 
+Les mesures présentées dans le budget sont une insulte aux Canadiens qui touchent de l'aide sociale et à un groupe de Canadiens en pleine croissance, celui des travailleurs pauvres. 
+Chercher à s'attribuer le mérite d'avoir mentionné le problème des sans-abri dans le budget tout en ne faisant rien pour corriger la situation représente, dans le meilleur des cas, un manque de sincérité de la part du gouvernement. 
+C'est pourquoi le chef de mon parti a annoncé la création d'un groupe de travail sur la pauvreté. 
+Une des coprésidentes en est le sénateur Erminie Cohen, avec Diane St-Jacques, députée de la circonscription de Shefford, au Québec. 
+L'autre sénateur qui en fera partie est le sénateur Lavoie-Roux.  
+Nous attendons avec impatience que ce groupe de travail se mette à l'oeuvre, rencontre les Canadiens des diverses régions et joigne ses efforts aux leurs pour cerner les problèmes, afin que nous puissions trouver des solutions à ces questions sociales fondamentales, des questions qui sont à la fois la responsabilité du gouvernement fédéral et des provinces.  
+J'ai énoncé des principes qui permettraient d'accroître la productivité, notamment le remboursement de la dette, l'application d'incitatifs fiscaux, l'allégement du fardeau fiscal, autant de mesures qui contribueraient grandement à rétablir la confiance à long terme envers l'économie canadienne. 
+L'inclusion de ces mesures dans le budget nous aurait permis de régler les problèmes auxquels nous faisons face dans les secteurs de la santé et de l'éducation.  
+Examinons brièvement la question de la santé. 
+Le dernier budget devait être celui de la santé. 
+Le gouvernement a effectivement injecté de l'argent dans ce secteur. 
+En réalité cependant, ces dépenses suffiront tout juste à rétablir, en l'an 2004, les paiements de transfert au titre de la santé et de l'éducation à leur niveau de 1996.  
+Une fois de plus, le gouvernement ne semble pas comprendre la situation et revient à cette vieille maxime libérale selon laquelle il suffit de donner plus d'argent aux gens pour régler les problèmes. 
+L'augmentation des dépenses dans le secteur de la santé arrive à point nommé, mais le gouvernement ne tient pas compte des graves problèmes auxquels nous devons faire face et des décisions difficiles à prendre au sujet des soins de santé. 
+La marque d'un véritable leadership est la capacité de prendre des décisions difficiles sur des questions importantes. 
+Le gouvernement continue de manquer de leadership et de vision à cet égard.  
+Le régime d'assurance-maladie actuel a débuté comme un programme universel pour tous les Canadiens, sans égard à leur capacité de payer. 
+Le moment est maintenant venu de revoir les soins de santé, sous la direction du gouvernement fédéral, et de définir les soins de santé obligatoires en vertu de la Loi canadienne sur la santé. 
+À quels services les cinq principes de la Loi canadienne sur la santé, à savoir la transférabilité, l'universalité, l'accessibilité, la gestion publique et l'intégralité, doivent-ils continuer de s'appliquer?  
+Beaucoup affirment que le système n'est pas suffisamment financé, mais à mon avis, il faut voir de plus près à quoi les fonds sont affectés. 
+Les dépenses font l'objet de contrôles rares ou inexistants, la reddition de comptes laisse à désirer et les frais médicaux sont basés sur des procédures répétitives et des visites répétées de la part des patients, ce qui fait augmenter le coût du système. 
+Il y aurait lieu d'élaborer un nouveau pacte qui redéfinisse les soins de santé tout en garantissant que tous les Canadiens y auront accès.  
+Dans l'examen des soins de santé, ceux qui en assurent la prestation devraient tenter de déterminer comment coordonner cette prestation. 
+Par exemple, on parle de privilégier les soins à domicile, mais on ne peut le faire en vase clos. 
+Ce type de soins doit être coordonné avec les médecins, les hôpitaux et les fournisseurs de soins à domicile. 
+Il faut intégrer tous ces fournisseurs. 
+Il faut intégrer les ressources fédérales et provinciales, les ressources provinciales et communautaires ainsi que les services locaux. 
+Il ne faut pas que nos ressources travaillent isolément les unes des autres.  
+Son Honneur le Président :
+Sénateur Atkins, je regrette de devoir vous interrompre, mais votre temps de parole est épuisé. 
+Demandez-vous la permission de continuer?  
+Le sénateur Atkins :
+Oui, Votre Honneur.  
+Son Honneur le Président :
+La permission est-elle accordée?  
+Des voix:
+D'accord.  
+Son Honneur le Président :
+Le sénateur Atkins :
+Par ailleurs, le budget ne dit rien des problèmes qui sont apparus ces quelques dernières années au Canada dans le domaine de l'éducation. 
+Nous devons relever trois défis.  
+Premièrement, il y a les taux de décrochage élevés. 
+Selon une étude de 1991 sur les décrocheurs, jusqu'à 30 p. 100 des étudiants qui commencent leur cours secondaire décrochent avant de l'avoir terminé. 
+Deuxièmement, les étudiants qui restent aux études ne sont pas bien préparés au marché du travail du prochain siècle.  
+Troisièmement, à cause du coût élevé de l'enseignement postsecondaire, la crise d'accessibilité aux études postsecondaires, que nous pensions avoir réglée il y a des années, se pose à nouveau.  
+Je voudrais me pencher brièvement maintenant sur le problème de l'accessibilité. 
+En mettant en oeuvre, dans les années 60, le Programme canadien de prêts aux étudiants, nous nous sommes vantés d'avoir réglé le problème d'accessibilité pour ceux qui souhaitaient poursuivre des études universitaires. 
+De bien des façons, je crois que nous nous bercions d'illusions même à l'époque. 
+Même avec la Loi canadienne sur les prêts aux étudiants, l'expérience scolaire des familles à faible revenu, des enfants souffrant d'handicap et des groupes minoritaires diffère de l'expérience des enfants de familles à revenu moyen ou élevé.  
+Il faut s'attaquer à la question des coûts et de l'endettement élevé des étudiants, mais en tenant compte du caractère abordable des études pour tous les étudiants. 
+Elle est révolue, l'époque où les droits de scolarité annuels étaient de 500 $ ou moins comme lorsque je fréquentais l'université. 
+Les emplois d'été étaient plus nombreux et lorsqu'on était chanceux, on pouvait, avec son deuxième mois de salaire de l'été, payer ses droits de scolarité. 
+Ces droits s'élèvent maintenant à plus de 4 000 $ par année et il faut ajouter à cela le coût des livres et ce qu'il en coûte pour se loger, s'habiller, se nourrir, et cetera. 
+Certains étudiants finissent leurs études avec d'énormes dettes. 
+Je reconnais qu'il n'y a pas de réponse simple à ce problème, mais j'ai une suggestion. 
+Pour le résoudre, il faudra faire preuve d'imagination et peut-être examiner l'histoire.  
+À la fin de la Seconde Guerre mondiale, en 1945, le Parlement a promulgué la Loi sur la réadaptation des anciens combattants, aux termes de laquelle on fournissait des fonds aux anciens combattants qui souhaitaient poursuivre des études universitaires, dans le cadre du Programme de formation universitaire. 
+Les anciens combattants qui exprimaient le désir d'aller à l'université pouvaient compter sur le ministère des Anciens combattants pour payer directement leurs droits de scolarité à l'université et ils touchaient en plus une allocation de subsistance chaque mois. 
+Ils avaient droit à ces programmes pourvu que des progrès «satisfaisants» soient faits à l'université.  
+Il s'agissait d'un investissement massif du gouvernement dans l'avenir de ce pays. 
+Cependant, grâce à ce succès, le Canada pouvait compter sur une population bien instruite, payant des impôts, contribuant positivement à la société, quelques années à peine après la Seconde Guerre mondiale. 
+Les anciens combattants finissaient leurs études avec un diplôme ou un métier, et ils n'avaient pratiquement aucune dette. 
+Un tel investissement dans l'avenir du Canada serait peut-être possible maintenant, alors que nous en arrivons à des excédents budgétaires. 
+Je l'espère, car nous devons rendre l'enseignement postsecondaire accessible à tous ceux qui ont les capacités voulues pour poursuivre des études.  
+Encore ici, c'est le genre de problèmes dont la solution nécessite vision et imagination. 
+Qu'a fait le gouvernement? 
+Il a annoncé dans le budget de l'an dernier un Fonds de bourses d'études du millénaire. 
+Ce fonds n'a pas encore aidé un seul étudiant, et quand il finira par voir le jour, il n'aidera qu'environ 4 p. 100 des étudiants postsecondaires.  
+Enfin, honorables sénateurs, je voudrais toucher un mot du traitement honteux infligé aux militaires canadiens dans ce budget. 
+En 1994, le livre blanc de la Défense nationale a instauré un programme en vue de l'acquisition d'équipement, de l'augmentation du personnel militaire et de l'accroissement des effectifs de la force de réserve. 
+Les années ont passé et le gouvernement a complètement ignoré l'existence de son propre livre blanc. 
+Dans ce budget, seulement 175 millions de dollars ont été octroyés à l'armée pour améliorer la qualité de vie de nos militaires. 
+Honorables sénateurs, le gouvernement se moque cruellement des Forces canadiennes.  
+Un comité multipartite de l'autre endroit, après avoir étudié les conditions de vie de nos militaires, y compris leurs soldes, a établi qu'un montant supplémentaire de 700 millions de dollars était nécessaire pour assurer la mise en oeuvre de ses recommandations touchant la qualité de vie. 
+Nous subirons encore des compressions d'effectifs militaires - compressions qui sont en totale contradiction avec les missions que nous assignons à nos troupes dans le monde entier. 
+Et à quand un programme digne de ce nom pour les unités de réserve?  
+On ne fait aucune mention de l'équipement dans ce budget. 
+Nos hélicoptères Sea King et Labrador ont de plus en plus de ratés, et leur structure faiblit aussi avec les années. 
+On ne remplacera aucun appareil de la flotte des Sea King au cours des trois prochaines années. 
+Il faut bien se rendre compte que, un bon jour, tous nos hélicoptères seront cloués au sol. 
+Cela mettra un terme à nos capacités de recherche et sauvetage et à la protection de nos eaux côtières contre l'entrée illégale de navires étrangers.  
+Honorables sénateurs, j'espère que, au cours du débat qui suivra, au moins un sénateur traitera de la question de l'environnement. 
+On a complètement oublié ce secteur dans le budget. 
+Il n'y a aucun incitatif pour amener les entreprises à adopter des pratiques plus respectueuses de l'environnement. 
+Tout comme le gouvernement n'avait rien planifié avant la conférence de Kyoto, l'an dernier, il n'y a maintenant rien dans ce budget qui laisse croire qu'on donne suite à l'entente de Kyoto au moyen d'incitatifs fiscaux. 
+J'espère qu'un de mes collègues, peut-être le sénateur Spivak, se chargera de commenter la question au cours du débat.  
+Honorables sénateurs, comme je l'ai dit au départ, comme on pouvait s'y attendre, je n'appuie pas ce budget. 
+Il reflète un manque de vision et d'imagination. 
+Il reflète l'absence de leadership à tous les niveaux, y compris celui de l'économie. 
+J'ai proposé d'autres idées que le gouvernement voudra peut-être prendre en considération au cas où il déciderait de faire preuve de leadership à l'égard de certains problèmes.  
+Ce gouvernement n'a aucune idée et aucune politique cohérente en ce qui concerne l'avenir de ce pays. 
+Il n'est pas assez bon pour continuer de diriger selon un programme modifié hérité du gouvernement qui l'a précédé, même si, pour l'instant, les Canadiens semblent disposés à accepter le statu quo. 
+Les gouvernements ont l'obligation, même en l'absence de pressions de la part du public, d'agir dans l'intérêt du pays.  
+(Sur la motion du sénateur Graham, le débat est ajourné.)  
+Le solliciteur général 
+La Commission d'enquête sur le traitement infligé par la GRC aux manifestants lors de la conférence de l'APEC-L'aide financière accordée pour la défense des étudiants-Adoption de la motion 
+L'ordre du jour appelle: 
+Reprise du débat sur la motion de l'honorable sénateur Carney, c.p., appuyée par l'honorable sénateur Bolduc, 
+Que le Sénat appuie une allocation de fonds de défense juridique aux plaignants qui se présenteront aux audiences de la Commission des plaintes du public contre la GRC à Vancouver relativement à la conférence de l'APEC.-( 
+L'honorable sénateur Pépin ). 
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, le gouvernement a annoncé que des fonds seront versés pour payer les frais juridiques engagés par les plaignants au cours de l'audience de l'APEC. 
+Je voudrais vous faire part exactement de la décision du gouvernement et des arrangements financiers qui sont prévus.  
+Le 3 février de cette année, le commissaire Hughes, de la Commission des plaintes du public contre la GRC, a adressé au solliciteur général une lettre recommandant que l'État fournisse une aide financière aux plaignants qui comparaissent à l'audience de la commission à la suite d'incidents qui ont eu lieu dans le cadre de la conférence de l'APEC en 1997, afin de les aider à payer les honoraires de leurs avocats. 
+Cette recommandation du commissaire était fondée sur la justice, l'intérêt public, la qualité et l'efficacité de l'enquête. 
+Le gouvernement a soigneusement étudié la recommandation de M. Hughes.  
+Le 15 février 1999, le gouvernement a annoncé qu'il fournirait une aide financière pour payer les frais d'avocat des plaignants directement impliqués dans les confrontations avec les agents de la GRC au cours du sommet de l'APEC de 1997. 
+Pour en arriver à cette décision, le gouvernement a tenu compte de la nature particulière des audiences dans cette affaire et de l'opinion émise par le commissaire Hughes, qui a affirmé qu'il était essentiel que l'on assure la représentation des plaignants par des avocats pour que les audiences soient impartiales et approfondies.  
+J'aimerais souligner que la décision de rembourser les frais d'avocats des plaignants a été prise d'une façon responsable du point de vue financier.  
+Le 23 février, le gouvernement a annoncé les critères qui devaient régir les arrangements financiers. 
+Deuxièmement, ce sont les étudiants qui devront choisir les avocats.  
+Troisièmement, les avocats représentant les étudiants seront rémunérés en fonction d'une échelle du ministère de la Justice limitant leurs honoraires à un montant variant entre 60$ et 200 $ l'heure, pour un maximum de 10 heures par jour.  
+Quatrièmement, cette aide sera de plus limitée à un nombre raisonnable d'heures de travaux préparatoires et de comparution en audiences devant M, Hughes.  
+Cinquièmement, le gouvernement prendra à sa charge les frais raisonnables.  
+Sixièmement, les honoraires et débours ne seront remboursés qu'à compter du 21 décembre 1998, date de la nomination de M. Hughes.  
+Septièmement, tous les comptes seront taxés au nom du gouvernement par un tiers, M. J.J. Camp, c.r., membre de l'étude Camp, Church et associés et ancien président de l'Association du Barreau canadien.  
+Le commissaire Hughes a approuvé ces dispositions. 
+Le 5 mars, il a rendu des décisions sur plusieurs questions, dont celle du financement. 
+Il s'est dit d'avis que le gouvernement s'était en grande partie conformé à la recommandation qu'il avait faite au solliciteur général et il a affirmé qu'il n'était pas prêt à contester la décision prise par le gouvernement.  
+Les plaignants veulent obtenir une aide financière pour déposer leur requête devant la Cour fédérale. 
+M. Hughes a proposé que l'avocat des plaignants demande à M. Camp, le tiers responsable de la gestion de l'entente de financement, si les frais de la requête adressée à la Cour fédérale répondent aux critères de financement. 
+Je crois savoir qu'on a demandé à M. Camp de rendre une décision à cet égard et que la question fait actuellement l'objet d'un examen.  
+Nous pouvons tous convenir, je crois, que l'entente de financement offerte par le gouvernement est juste et raisonnable. 
+Elle permet à la commission de mener une enquête équitable et complète pour tenter de résoudre les questions dont elle est saisie. 
+On prévoit que la commission s'assurera que tant les Canadiens qui lui soumettent des plaintes au sujet de la GRC que les membres de la GRC auront toutes les chances d'énoncer publiquement leur point de vue et leurs préoccupations.  
+Depuis sa création, il y a 12 ans, la Commission des plaintes du public s'est distinguée en traitant avec respect et équité les personnes qui ont comparu devant elle, et nous sommes convaincus qu'elle continuera en ce sens.  
+Par conséquent, honorables sénateurs, je n'ai aucune hésitation à appuyer cette motion, car elle décrit avec précision les mesures que le gouvernement a annoncées.  
+L'honorable Noël A. Kinsella (chef adjoint suppléant de l'opposition) :
+Honorables sénateurs, comme j'ai traité de la motion, je ne peux pas en parler de nouveau, mais le ministre voudra peut-être accepter que je lui pose une question pour qu'il explique ses observations.  
+Le sénateur Graham :
+Certainement.  
+Le sénateur Kinsella :
+Honorables sénateurs, bien que, dans cette ville, les choses ne correspondent pas tout à fait aux dimensions de la réalité proposées par Aristote, les sénateurs des deux côtés de la Chambre pourraient-ils conclure ou, du moins, déduire avec une certaine conviction que, en ayant soulevé des questions au sujet de cette affaire, nous avons contribué à la prise de cette décision?  
+Le sénateur Di Nino :
+Absolument.  
+Le sénateur Graham :
+Absolument.  
+Le sénateur Kinsella :
+Honorables sénateurs, c'est que, dès qu'on s'intéresse à ce genre de dossier, on veut comprendre les principes qui sous-tendent les décisions qui sont prises. 
+L'honorable ministre pourrait-il expliquer la différence qu'il y a au juste entre la demande de financement qui avait été faite par le président de la première commission, M. Morin, et celle du juge Hughes?  
+Le sénateur Graham :
+Quand le solliciteur général a répondu à cette question, il s'est reporté à sa correspondance avec le juge Hughes disant que ce dernier avait utilisé, si je me souviens bien, le terme «essentiel» pour dire que c'était essentiel pour les audiences, pour les travaux. 
+Je cite le juge Hughes et j'ai les copies des lettres à l'intention de l'honorable sénateur Kinsella. 
+Avec la permission du Sénat, je pourrais déposer cette correspondance entre M. Hughes et le solliciteur général pour l'information de tous les sénateurs.  
+Le sénateur Kinsella :
+Merci.  
+Son Honneur le Président :
+Plaît-il aux honorables sénateurs que la correspondance soit déposée?  
+Des voix:
+D'accord.  
+Son Honneur le Président :
+Si personne d'autre ne veut prendre la parole, je vais passer à la motion.  
+L'honorable sénateur Carney, appuyée par l'honorable sénateur Bolduc, propose: 
+Que le Sénat appuie une allocation de fonds de défense juridique aux plaignants qui se présenteront aux audiences de la Commission des plaintes du public contre la GRC à Vancouver relativement à la conférence de l'APEC.  
+Vous plaît-il, honorables sénateurs, d'adopter la motion?  
+Des voix:
+D'accord.  
+(La motion est adoptée.)  
+L'Accord multilatéral sur l'investissement 
+Interpellation-Fin du débat 
+L'ordre du jour appelle: 
+Reprise du débat sur l'interpellation de l'honorable sénateur Spivak, attirant l'attention du Sénat sur les différences entre le projet d'Accord multilatéral sur l'investissement (AMI) et l'ALENA.-( 
+L'honorable sénateur Eyton ). 
+L'honorable J. Trevor Eyton :
+Honorables sénateurs, je prends la parole aujourd'hui pour poursuivre le débat sur l'avis d'interpellation présenté par ma collègue, le sénateur Spivak, concernant l'Accord multilatéral sur l'investissement, communément appelé l'AMI. 
+Le sénateur Spivak a abordé un certain nombre d'aspects intéressants dans son intervention. 
+Elle se préoccupait surtout du fait que l'on présentait l'AMI comme une version plus ou moins similaire de l'ALENA, mais sur une plus grande échelle, alors qu'il existe des différences importantes entre les deux, comme elle le faisait remarquer.  
+Aujourd'hui, je voudrais essayer de présenter toute la question de l'AMI sous un meilleur angle. 
+Il est important de comprendre clairement ce qu'est l'AMI et ce qu'il est destiné à accomplir. 
+Une bonne partie de ce que nous avons lu dans les journaux, et entendu ailleurs, est soit partial, soit tout simplement faux. 
+C'est pourquoi il est souvent difficile de séparer le bon grain de l'ivraie, et une partie de cette ivraie est tout simplement ridicule. 
+Par exemple, j'ai lu récemment une coupure de presse qui citait un enseignant de l'Île-du-Prince-Édouard qui estimait que l'AMI allait sonner le glas de l'éducation publique au Canada. 
+Quelqu'un d'autre en parlait comme d'un clou de plus dans le cercueil de la Confédération.  
+Pour mémoire, les négociations de l'AMI ont débuté au printemps de 1995 et se sont déroulées jusqu'à tout récemment, lorsque les pourparlers ont été suspendus par manque de consensus sur des questions allant de la souveraineté culturelle à l'environnement, en passant par la protection des droits dans le domaine du travail. 
+Les négociations avaient été limitées aux 29 membres de l'OCDE parce qu'on estimait que les 132 membres de l'Organisation mondiale du commerce formeraient tout simplement une tribune trop vaste pour permettre quelque consensus que ce soit. 
+Il a été décidé qu'il serait plus facile à des pays déjà très engagés à l'égard de la libéralisation des échanges d'en arriver à une entente. 
+De toute manière, comme les pays de l'OCDE sont la source de plus de 60 p. 100 de l'investissement direct étranger, il était normal de commencer par eux. 
+C'était peut-être logique, mais il semble que cela ne donnera probablement pas les résultats escomptés et que, par défaut, l'OMC sera saisie de cette affaire.  
+Voici dans quel contexte se présentent les choses. 
+À l'heure actuelle, quelque 1 600 accords bilatéraux lient les pays de l'OCDE. 
+Le Canada, par exemple, a conclu des accords avec 24 pays. 
+L'AMI supprimerait tous ces documents et les remplacerait par un accord obligatoire qui tiendrait compte des nombreuses préoccupations qu'a suscitées la mondialisation de la production. 
+L'AMI visait à faire pour l'investissement ce que l'Uruguay Round de l'Accord général sur les tarifs douaniers et le commerce a fait pour les biens et services, à savoir offrir un mécanisme global pour traiter d'une grande variété de questions connexes.  
+Autrement dit, l'Accord multilatéral sur l'investissement est un effort en vue d'établir des règles mondiales sur la circulation des capitaux d'investissement en suscitant un climat international stable et équitable pour l'investissement, ce qui sera avantageux pour tous ceux qui y adhèrent, et plus particulièrement pour les PME, qui n'ont pas le pouvoir d'influencer des gouvernements qui pourraient changer leurs règles sur l'investissement étranger ou pratiquer la discrimination à l'encontre des sociétés étrangères.  
+L'accord comporte donc trois éléments centraux. 
+Tout d'abord, il abaisse les barrières à l'investissement étranger. 
+Deuxièmement, il protège les investisseurs contre la discrimination et l'expropriation au moyen de deux mécanismes: le traitement national et le principe voulant que les pays ne traitent pas les investisseurs étrangers de façon moins favorable que leurs propres investisseurs. 
+Ce principe veut que, une fois qu'un pays a accordé un certain traitement à un investisseur ou à un investissement étranger, il ne puisse réserver un traitement moins favorable à un autre investisseur ou investissement. 
+Enfin, l'accord prévoit un mécanisme exécutoire de règlement des différends.  
+Dès le départ, l'accord a été la cible d'une opposition féroce de la part d'un petit groupe de nationalistes économiques et de détracteurs du libre-échange qui refusent, et refuseront apparemment toujours, d'admettre, malgré des preuves écrasantes, que le libre-échange a été une aubaine pour le Canada. 
+Ces gens prétendent entre autres choses que l'accord empêchera le Canada de légiférer dans certains domaines, nous empêchera de fixer nos propres normes, fera croître le chômage et fera disparaître notre secteur culturel. 
+Il est clair que ce n'est pas le cas.  
+L'accord ne nous fera pas tomber le ciel sur la tête, pas plus que l'ALENA ne l'a fait. 
+Je ne dis pas qu'il n'y a pas d'améliorations à apporter ni de changements à faire, mais nous sommes loin de l'apocalypse que nous promettaient Maude Barlow et d'autres personnalités du même acabit. 
+Mme Barlow et ceux qui l'accompagnent exploitent une riche veine d'anxiété, de peur devant l'inconnu. 
+Ils ont vilipendé la mondialisation, malgré les emplois qu'elle a créés chez nous et les nombreux avantages tangibles qu'elle a apportés au Canada et aux consommateurs canadiens.  
+Il faut reconnaître que les changements, y compris la mondialisation, sont survenus à un rythme rapide au cours de la dernière décennie. 
+La révolution dans les secteurs de l'informatique et des communications a modifié complètement notre façon de faire des affaires et notre conception du monde. 
+On a laissé tomber nos anciennes méthodes et pratiques. 
+Les gens ne savent pas trop où tout cela va mener. 
+Ils sont inquiets et résistent à de nouveaux changements. 
+Dans les faits, le Canada a déjà conclu une sorte d'AMI avec son principal partenaire commercial, les États-Unis, sous la forme de l'ALENA. 
+Par conséquent, il est exclu qu'un bouleversement économique majeur comme celui prévu par les détracteurs de l'AMI ne survienne. 
+Contrairement à ce que ces gens prétendent, l'AMI n'est pas une sorte de charte des droits des grandes entreprises, ni un cheval de Troie permettant aux étrangers d'exercer leur domination, il ne suppose pas un assouplissement des responsabilités des sociétés et il ne minera pas la capacité d'États comme le Canada de réglementer leur économie intérieure, pour autant que, ce faisant, ils ne fassent pas de discrimination à l'endroit des investisseurs étrangers.  
+L'AMI vise à protéger les gens d'affaires contre les mesures gouvernementales prises à l'aveuglette et à établir des normes d'accès au marché et de protection légale pour les investisseurs, des normes reconnues à l'échelle internationale. 
+De toute évidence, l'AMI n'est pas parfait. 
+Il y a inévitablement des différences d'interprétation. 
+Je pense toutefois que c'est un pas dans la bonne direction et qu'il pourrait, s'il est finalement mis en oeuvre, être très avantageux à long terme pour le Canada. 
+La mondialisation et la libéralisation des échanges sont des tendances d'aujourd'hui et de demain. 
+Nous devons nous positionner de manière à tirer profit de ces tendances et à nous prévaloir d'instruments comme l'AMI, ce qui accroîtra notre capacité de soutenir la concurrence dans le nouveau contexte mondial.  
+Cela signifie que nous devons investir. 
+Par exemple, l'an dernier, les Canadiens ont investi plus de 190 milliards de dollars à l'étranger. 
+Nous devons encourager les étrangers à investir chez nous. 
+Les investissements étrangers sont indispensables à notre bien-être. 
+Ils permettent d'améliorer les services, ils favorisent la concurrence et ils sont générateurs de croissance. 
+Ils créent des emplois. 
+En fait, ils créent un dixième de tous les emplois au Canada.  
+Honorables sénateurs, soyons donc signataires d'un AMI nouveau et satisfaisant. 
+Mais avant, améliorons-le afin qu'il profite à tous les Canadiens et que personne ne puisse dire qu'un groupe en particulier cherche à en profiter au détriment de la vaste majorité des Canadiens. 
+L'honorable John B. Stewart :
+Honorables sénateurs, j'ai deux ou trois questions à poser au sénateur Eyton. 
+Je pourrais peut-être les poser l'une après l'autre.  
+La première question a trait aux investissements étrangers faits au Canada. 
+Plus tôt cet après-midi, le sénateur Atkins a dit que les investissements étrangers au Canada n'étaient pas aussi élevés qu'ils devraient l'être. 
+Dans son rapport sur le Canada et la région Asie-Pacifique, le comité sénatorial permanent des affaires étrangères a donné certaines raisons de cet état de chose, mais je ne veux pas essayer de me souvenir de ce que nous avons dit dans notre rapport.  
+Compte tenu de la situation actuelle et de la faiblesse du dollar canadien, que ferait l'accord auquel souscrit le sénateur Eyton pour attirer de nouveaux investissements au Canada? 
+De quels pays avec lesquels nous n'avons pas encore conclu d'entente de traitement national viendraient ces nouveaux investissements dans le sillage de l'AMI?  
+Le sénateur Eyton :
+Je vous remercie de votre question. 
+J'ai bien dit dans mes observations que le Canada a déjà conclu des ententes de nature générale avec 24 pays. 
+Plus particulièrement, nous avons conclu l'ALENA, qui porte sur nos relations avec les États-Unis et le Mexique. 
+En ce qui a trait aux effets réels au Canada, ils pourraient être relativement minimes parce qu'une grande partie du commerce et des investissements sont maintenant régis par des ententes existantes. 
+Toutefois, l'AMI a constitué une tentative mondiale d'établissement de règles uniformes qui auraient été acceptables pour tous et qui auraient été bien comprises par les entreprises, les entreprises internationales notamment, ce qui les aurait incitées à venir investir chez nous.  
+Le sénateur Stewart :
+Honorables sénateurs, c'est la réponse que j'attendais et j'en remercie l'honorable sénateur.  
+Je pourrais probablement placer ma question suivante sous le signe de l'anxiété. 
+Je n'ai pas l'impression que l'AMI a suscité beaucoup d'appuis parmi les pêcheurs dans la région du Canada d'où je viens. 
+En ce moment, le ministère des Pêches a une politique qui permet les quotas individuels transférables. 
+Un pêcheur ou une entreprise peut donc obtenir un quota. 
+Le danger que les pêcheurs voient, c'est que, si ces quotas sont transférables, ils peuvent être accumulés par les grandes entreprises comme la Compagnie nationale des produits de la mer, ou peu importe quel est son nom aujourd'hui.  
+Ils ne sont même pas membres d'équipage. 
+C'est un sujet de préoccupation sérieux et pas seulement hypothétique.  
+Le sénateur a-t-il eu l'occasion d'examiner ce problème précis?  
+Le sénateur Eyton :
+Le sénateur Stewart :
+Ce qui se passera dans l'avenir est toujours hypothétique.  
+Le sénateur Eyton :
+Par exemple, on pourrait fixer la taille de la flotte, le tonnage des navires ou le type d'individus qui peuvent détenir les permis. 
+On peut faire tout cela, mais on ne peut pas faire de discrimination.  
+Je crois que l'inquiétude du sénateur n'est pas fondée, mais il est probablement un peu téméraire de ma part de tenter de la calmer. 
+Je suis loin d'être un expert dans le domaine.  
+L'honorable Nicholas W. Taylor :
+Peut-être le sénateur me permettrait-il de lui poser moi aussi une question. 
+Je veux parler de ce que l'on appelle la guerre des bananes, où les États-Unis, qui ne produisent pas de bananes, se battent contre l'Europe, qui ne produit pas non plus de bananes, pour savoir où les Européens doivent acheter ces fruits. 
+De toute évidence, cette guerre tire son origine des investissements massifs des Américains dans la culture des bananes en Amérique centrale, pas dans les pêcheries. 
+Que se passe-t-il lorsqu'un pays investisseur sabote un marché pour protéger ses investissements dans un autre marché? 
+L'AMI n'ouvre-t-il pas toutes grandes la porte à de telles guerres? 
+Assisterons-nous à de petites guerres des bananes dans tous les secteurs?  
+Le sénateur Eyton :
+Honorables sénateurs, nous avons tous des points faibles et nous pouvons tous trouver des exemples de situations où nous n'avons pas été parfaitement équitables dans nos rapports avec autrui. 
+J'ai tiré un certain réconfort du fait que nous ne possédons pas de bananes en ce moment, du moins au Canada. 
+Ce n'est pas particulièrement notre préoccupation. 
+Dans le dossier des bananes, l'UE et les États-Unis soutiennent que c'est l'OMC qui devrait trancher. 
+En fait, les États-Unis n'ont pas saisi cette organisation. 
+Ils ont fait fi du processus ou de la procédure et ils menacent d'adopter d'autres genres de mesures de rétorsion.  
+Un pays de la taille du Canada a besoin de la présence d'un organisme comme l'OMC qui peut chercher à imposer des règles cohérentes à l'échelle internationale. 
+Je crois que c'est une amélioration. 
+Je ne dit pas que tout est parfait, mais c'est une amélioration.  
+Le sénateur Taylor :
+Le sénateur recommanderait-il donc en ce cas, bien que cela semble aller dans l'ordre des choses qui surviendront, que l'AMI soit assujetti à un règlement amélioré et plus ferme établi par l'OMC? 
+En d'autres mots, l'AMI serait-il dangereux en l'absence d'une OMC forte?  
+Le sénateur Eyton :
+Oui. 
+Je crois qu'il est avantageux pour le Canada de compter sur un organisme semblable qui affiche des règles solides et que nous devrions l'appuyer. 
+La difficulté, comme nous l'avons nous-mêmes constaté au moment de la négociation de l'ALENA, tient de la crainte de nuire à notre capacité de gérer nos propres affaires. 
+C'est presque une préoccupation d'ordre constitutionnel. 
+Dans notre cas, c'est l'exemption de l'ALENA en matière de culture. 
+Nous avons insisté sur cet aspect pour des motifs politiques et parce que les Canadiens estimaient que c'était un secteur qui devait être exempté. 
+Son Honneur le Président :
+Si aucun sénateur ne souhaite prendre la parole, le débat sur cette interpellation sera considéré comme clos.  
+L'élection du Canada au Conseil de sécurité des Nations Unies 
+Interpellation-Report du débat 
+L'ordre du jour appelle: 
+Reprise du débat sur l'interpellation de l'honorable sénateur Roche, attirant l'attention du Sénat sur l'élection du Canada au Conseil de sécurité des Nations Unies pour 1999 et 2000, et sur la contribution du Canada à la paix, à la sécurité mondiale et au respect des droits humains dans le monde, à l'aube du troisième millénaire.-( 
+L'honorable sénateur Graham, c.p. ). 
+L'honorable B. Alasdair Graham (leader du gouvernement) :
+Honorables sénateurs, c'est une interpellation importante que le sénateur Roche a soulevée. 
+Je ne suis pas prêt à me prononcer là-dessus aujourd'hui et je veux traiter d'un autre sujet.  
+Puisque la sanction royale est prévue pour 16 h 30 aujourd'hui et étant entendu que le timbre sonnera à 16 h 15, j'aimerais reporter l'interpellation et donner l'assurance aux honorables sénateurs que j'en parlerai à la première occasion.  
+Son Honneur le Président :
+Est-ce d'accord, honorables sénateurs?  
+Des voix:
+D'accord.  
+(Le débat est reporté.)  
+La sécurité en Europe 
+Interpellation-Ajournement du débat 
+L'honorable Jerahmiel S. Grafstein , ayant donné avis le 9 mars 1999: 
+Qu'il attirera l'attention du Sénat sur la délégation de l'Association parlementaire Canada-Europe à la réunion de la Commission permanente de l'Assemblée parlementaire de l'Organisation pour la sécurité et la coopération en Europe qui a eu lieu à Vienne, en Autriche, les 14 et 15 janvier 1999, et sur la situation au Kosovo.  
+C'est de ce majestueux édifice que, en 1938, Hitler a célébré l' Anschluss entre l'Allemagne et l'Autriche avec les citoyens de Vienne. 
+C'est dans une aile de ce même édifice que la Commission permanente de l'Assemblée parlementaire de l'OCSE a tenu sa réunion trimestrielle les 14 et 15 janvier 1999. J'ai été invité à assister à cette réunion à titre de membre du bureau élargi et de vice-président de la commission économique.  
+Le rapport de cette réunion, déposé aujourd'hui, fait le point sur les rapports et les travaux à Vienne. 
+Vienne, jadis la frontière est de l'Europe, enjambe le fabuleux Danube, qui est deux fois plus long que n'importe quel grand fleuve d'Europe - plus de 1 700 milles - et qui, né dans la Forêt-Noire, au centre de l'Europe, traverse ou longe l'Autriche, les Balkans, et va jusqu'au-delà de la mer Noire. 
+Le Kosovo, ce foyer de trouble, se situe à proximité, pas très loin au sud du Danube.  
+Les rapports examinés à cette réunion venaient du haut commissaire de l'OSCE pour les minorités nationales et du Bureau des institutions démocratiques et des droits de l'homme et décrivaient 19 missions prévues pour 1999 en Europe de l'Est, dans 14 pays d'Europe de l'Est. 
+Le représentant de l'OSCE pour la liberté des médias a décrit les problèmes auxquels sont confrontés les journalistes de 40 États européens. 
+Nous avons entendu un rapport du coordinateur des activités environnementales économiques, de même qu'un rapport du conseiller chargé de la question des violations des droits de la personne, concernant le trafic de femmes et d'enfants ainsi que les droits électoraux des femmes.  
+Le président du Parlement autrichien et le chancelier autrichien ont ensuite été accueillis. 
+Le rapport concernant le séminaire sur le règlement des conflits qui s'est tenu dans le Caucase, à Tbilissi, en Géorgie, les 5 et 6 octobre - auquel j'ai assisté à tire de conférencier invité et dont j'ai fait rapport au Sénat - a également été déposé. 
+Enfin, nous avons reçu les documents concernant les préparatifs d'une conférence régionale distincte, la Conférence de coopération économique sous-régionale, qui doit se tenir à Nantes, en France, en octobre 1999. 
+Somme toute, le programme était fourni, voire congestionné, et prévoyait des douzaines d'initiatives de l'OSCE ayant toutes le même objectif primordial, l'élaboration de structures civiles démocratiques en Europe. 
+S'il y a une leçon que nous puissions tirer du présent siècle, c'est que la démocratie n'est pas une fleur sauvage. 
+Une société civile ne grandit pas sans une pollinisation croisée et un sarclage constant. 
+Une société civile ne fonctionne bien que lorsqu'on travaille chaque jour à tous les niveaux de son organisation.  
+Toutefois, honorables sénateurs, si les travaux des commissions de l'OSCE sur le développement démocratique ont une portée de plus en plus grande et sont de plus en plus spécialisés et porteurs, la réunion a été monopolisée par l'omniprésente résolution sur le Kosovo. 
+Le débat a porté principalement sur le recours à la force comme moyen de conduire à tout le moins les belligérants dans une impasse pacifique afin de pouvoir résoudre des problèmes beaucoup plus profonds.  
+D'un style et d'un ton conciliants, la résolution a surtout été libellée par les interlocuteurs américains et russes. 
+Toutefois, les médias passent avec désinvolture sur un fait nouveau des plus importants, une expérience des plus hasardeuses, à savoir le transfert de technologie des pays démocratiques. 
+Il se peut que les médias n'aiment pas traiter de questions d'actualité complexes et qu'en conséquence, ils n'arrivent à parler de l'histoire qu'au moyen de vignettes et de rétrospectives.  
+Plus de 2 000 volontaires d'Amérique du Nord et d'Europe, y compris des parlementaires, des experts des questions militaires ou policières, des avocats spécialisés dans les droits de la personne, beaucoup de gens ayant de l'expérience dans la surveillance d'élections ou des compétences particulières dans les questions relatives à la société civile, aux réfugiés et à la réinstallation des personnes déplacées et d'autres spécialistes ont eu l'aide des États de l'OSCE participant à la Mission de vérification au Kosovo, ou MVK.  
+Honorables sénateurs, je répète que plus de 2 000 volontaires civils sans armes, dont des parlementaires, sont au Kosovo ou se préparent à y aller.  
+La Mission de vérification au Kosovo est la mission non militaire la plus importante, la plus complexe et la plus délicate entreprise par l'OSCE ou par toute autre organisation internationale depuis que les répercussions de la Seconde Guerre mondiale se sont apaisées. 
+L'OSCE a une structure légère. 
+Espérons qu'elle n'ait pas vu trop grand. 
+Cette entreprise, plus que toute autre, mettra sa capacité à l'épreuve. 
+La MVK vérifiera le respect des résolutions du Conseil de sécurité des Nations Unies nos 1260 et 1199 par l'ancienne République de Yougoslavie. 
+Une tâche supplémentaire a été confiée aujourd'hui à la MVK. 
+Je cite un article de la presse d'aujourd'hui qui rapportait ceci: 
+La juge Louise Arbour, de la Cour d'appel de l'Ontario, procureur en chef du Tribunal des Nations Unies pour les crimes de guerre, a dit hier qu'elle avait demandé aux observateurs internationaux de l'aider à faire la lumière sur des événements particulièrement horribles au Kosovo, notamment le fait que la police serbe aurait récemment capturé 100 Albanais de souche.  
+«Nous attendons des vérificateurs de l'OSCE qu'ils nous fassent un compte rendu de leurs observations sur tous les faits, passés et présents, qui pourraient relever de nos compétences», a dit la juge Arbour à La Haye.  
+Pour revenir à ce que nous disions, le Conseil permanent de l'OSCE a décidé le 15 octobre dernier d'affecter des habitants des pays de l'OSCE à cette mission de vérification pour mesurer le niveau d'observation de l'entente dans les diverses parties du Kosovo. 
+Le Conseil de sécurité des Nations Unies a appuyé la mission de l'OSCE le 24 octobre et cette dernière a été officialisée par le Conseil permanent de l'OSCE le 25 octobre dans sa décision no 263.  
+La résolution de l'ONU demandait la création d'une mission regroupant environ 2 000 vérificateurs experts non armés des pays de l'OSCE participants. 
+Comme je l'ai déjà dit, le mandat principal de cette mission est à la fois simple et complexe. 
+Elle doit vérifier la façon dont les résolutions du Conseil de sécurité des Nations Unies sont observées dans toutes les parties du Kosovo. 
+Ces résolutions prévoient un cessez-le-feu, le retrait des troupes de sécurité, des restrictions contre la répression civile, le retour en toute sécurité des réfugiés et des personnes relogées, l'amorce d'un dialogue rationnel sur les solutions politiques et la crise actuelle et enfin, la supervision des élections tenues au Kosovo pour en assurer la transparence et l'impartialité, conformément aux règles et procédures adoptées, tout en aidant à la mise sur pied d'institutions démocratiques et de corps policiers dûment formés.  
+Les succès, les échecs, les progrès et les cas de non-respect doivent être rapportés régulièrement au Conseil permanent de l'OSCE, au Conseil de sécurité des Nations Unies et à d'autres organismes internationaux. 
+Le premier mandat a une durée d'un an, et il pourra être prolongé à la demande du président. 
+Cette mission est différente tant en importance qu'en étendue des autres missions de paix civile non-armée similaire entreprises récemment. 
+En comparaison, la mission en Bosnie ne comprenait que 250 membres lorsqu'un règlement structuré était en place.  
+Honorables sénateurs, lisez les journaux. 
+Jusqu'ici, aucun règlement de la sorte n'est en vue au Kosovo.  
+Après bien des pressions, une entente a été signée avec les autorités de l'ancienne République de Yougoslavie et l'OSCE a déclaré que l'ancienne République de Yougoslavie garantira la sécurité de la MVK et de tous ses membres. 
+Selon l'entente, il incombe à la République fédérale de Yougoslavie de garantir la sécurité de ces membres. 
+Les dangers sont réels et omniprésents. 
+Je le répète, le mandat de la mission de vérification est détaillé, allant des dispositions de voyage aux transports et aux communications, aux questions transfrontalières et aux problèmes de réinstallation.  
+La semaine dernière, on a reçu des rapports selon lesquels d'autres vérificateurs ont été battus et expulsés d'une région. 
+Pourtant, depuis le 5 février 1999, 1 125 vérificateurs ont été recensés et ont été déployés ou sont en voie d'être déployés au Kosovo. 
+La mission a continué de croître jusqu'à ce qu'elle atteigne le but fixé d'environ 2 000 personnes. 
+Parmi les 1 125 personnes qui sont affectées, le Canada a fourni 131 spécialistes. 
+Si je ne m'abuse, il pourrait y en avoir encore 45 autres. 
+Les spécialistes canadiens appartiennent aux domaines de la police, des communications et du droit.  
+Honorables sénateurs, cette expérience très risquée représente pourtant une étape importante à franchir pour combler l'écart entre les résolutions qui circulent aux Nations Unies et l'observation sur le terrain de violations flagrantes des droits de l'homme et des normes internationales. 
+Je crains constamment que des civils canadiens, du personnel non militaire et non armé, ait été envoyé en l'absence d'un règlement politique clair, de garanties de sécurité ou d'un examen parlementaire minutieux de ces questions. 
+Il est intéressant de noter qu'aujourd'hui, le Congrès américain doit tenir un débat et se prononcer sur la décision d'appuyer le déploiement de Casques bleus américains au Kosovo.  
+Entre-temps, le conflit au Kosovo, d'un point de vue politique, demeure un dossier chaud et explosif. 
+Les représentants des parties en conflit se sont rencontrées à l'extérieur de Paris, à Rambouillet, pour élaborer une entente sous l'égide d'un groupe de contact ministériel regroupant six pays. 
+Nous apprenons aujourd'hui que les efforts de l'ambassadeur Holbrooke, l'émissaire spécial américain, n'ont pas réussi à ramener les Serbes et les diverses factions albanaises à la table. 
+Les États de l'OSCE, sous la direction des États-Unis et de la Grande-Bretagne, ont déployé des forces de l'OTAN dans le but d'exercer des pressions maximales, surtout sur les autorités serbes, pour remédier aux problèmes au Kosovo. 
+Comme les honorables sénateurs le savent, 10 p. 100 des habitants du Kosovo sont d'origine serbe, contre 90 p. 100 d'origine albanaise. 
+Or, le Kosovo est le coeur mythique de la soi-disant «Grande Serbie». 
+Le problème fondamental tient aux relations entre la majorité albanaise et la minorité serbe à l'intérieur des frontières du Kosovo, et au rôle du Kosovo en tant qu'élément de la fédération yougoslave dominée par la Serbie ou en tant qu'État indépendant. 
+Entre-temps, en pleine pause pour les discussions politiques en France, nous apprenons que des forces dirigées par les Serbes continuent de se livrer à la purification ethnique en s'attaquant à de petits villages albanais les uns après les autres.  
+Cette mission de vérification est peu connue et peu comprise. 
+Les médias ont surtout parlé des menaces militaires de l'OTAN, sous la direction des États-Unis et de la Grande-Bretagne, pour inciter la Serbie à respecter un accord de paix équitable. 
+En lisant les journaux ou en regardant la télévision, on constate qu'on accorde peu ou pas du tout d'attention à cette intervention internationale massive, non militaire et non armée, qui veut s'attaquer en partie aux problèmes fondamentaux provoqués par la guerre civile dans l'ex-République de Yougoslavie.  
+Honorables sénateurs, la question balkanique a fait éruption en 1903 avec l'assassinat du roi Alexandre de Serbie, à Belgrade. 
+Le mot «Balkans» vient du mot turc désignant les montagnes. 
+De plus, le mot «Balkans» est devenu une triste métaphore pour le XXe siècle. 
+Balkaniser veut dire porter les problèmes à ébullition jusqu'à ce que tout explose. 
+Plus les groupes sont petits, plus la taille des territoires est réduite, et plus les conflits sont intenses. 
+Il est intéressant de noter que notre siècle de terrorisme parrainé par l'État a commencé en Italie, qui avait des camps d'entraînement de terroristes formés pour miner les gouvernements dans les Balkans afin d'assurer sa domination sur la région. 
+Nous terminons donc le siècle avec les mêmes problèmes fondamentaux non résolus et même pires encore.  
+À la fin de ce débat, j'espère mettre en lumière les causes profondes de ce répugnant nettoyage ethnique qui a si lamentablement défiguré la paix dans cette région chaude et négligée qu'est le sud-est de l'Europe. 
+Depuis l'effondrement de l'empire soviétique, le problème des Balkans est redevenu un marécage politique fangeux, un problème crucial qui n'a toujours pas trouvé de solution. 
+Les honorables sénateurs ne seront pas étonnés de constater que des actes commis à l'extérieur de l'ex-Yougoslavie et l'inertie des États démocratiques occidentaux, qui ont été des collaborateurs conscients ou du moins négligents, auront été pour quelque chose dans cette dernière débâcle de la dernière décennie d'un siècle qui restera gravé dans les mémoires comme le siècle des tueries.  
+J'invite les sénateurs à participer à ce débat. 
+C'est la deuxième occasion qui est donnée au Sénat de discuter du Kosovo. 
+J'ai pris note de l'intervention mûrement réfléchie du sénateur Forrestall, qui a insisté sur les dangers que pourraient courir des troupes canadiennes déployées au Kosovo. 
+J'avoue que la situation est explosive et dangereuse. 
+Cependant, honorables sénateurs, les vérificateurs canadiens sont également exposés et risquent de devenir des pions dans ce conflit s'il y avait une rapide explosion de violence provoquée par l'imminence d'une intervention de l'OTAN.  
+L'effondrement de l'ancienne République fédérale de Yougoslavie qui a entraîné le génocide perpétré par les Croates et les Serbes en Bosnie et les actes aussi horribles commis par citoyens de souche serbe ou albanaise au Kosovo est une triste fable dont il faut tirer un morale.  
+La faute est imputable en partie aux mythes populaires, selon lesquels les habitants des Balkans sont incapables de vivre selon les règles d'une société civilisée et de respecter un pluralisme pacifique. 
+Les honorables sénateurs savent probablement que les membres des factions belliqueuses dans l'ex-Yougoslavie appartiennent aux mêmes groupes ethniques slaves. 
+Ils parlent la même langue, portent des noms similaires, sauf peut-être une exception mineure, mais pratiquent des religions quelque peu différentes.  
+Au moyen d'interventions par omission ou par action fondées sur des revendications historiques exagérées, des ecclésiastiques zélés et des dirigeants politiques avares et ambitieux, tous soutenus par des États aussi avides de vils gains politiques à l'extérieur des frontières de l'ex-Yougoslavie, ont contribué à la violente impasse qui prévaut actuellement.  
+Son Honneur le Président :
+Honorable sénateur Grafstein, je regrette, mais je dois vous interrompre, car la période de 15 minutes qui vous était accordée est terminée.  
+Le sénateur Grafstein :
+Votre honneur, je demande la permission du Sénat pour continuer.  
+Son Honneur le Président :
+Permission accordée, honorables sénateurs?  
+Des voix:
+D'accord.  
+Le sénateur Grafstein :
+Permettez-moi de vous dresser la liste des dix misérables éléments qui caractérisent le nationalisme extrémiste. 
+Ces éléments sont les suivants: premièrement, les fausses origines mythiques et les récits historiques exagérés; deuxièmement, le transfert aux autres des causes de tous les maux; troisièmement, le dénuement économique et la paralysie attribuables aux budgets militaires gonflés ou à la politique de souveraineté; quatrièmement, les récits dénaturés d'humiliations toujours causées par les autres; cinquièmement, le culte voué à des différences mineures; sixièmement, la fomentation de craintes injustifiées et d'un sentiment d'insécurité; septièmement, la marginalisation des modérés; huitièmement, les médias subjectifs; neuvièmement, la souveraineté réclamée à outrance; et dixièmement, la diffusion de la notion de supériorité religieuse définissant les autres comme des êtres inférieurs ou, pis encore, comme des être impurs.  
+Sans faire l'autopsie de la mentalité qui règne dans les Balkans, il nous est impossible de poser les bonnes questions et encore moins de trouver les bonnes réponses.  
+J'espère que les autres sénateurs participeront au débat sur cette interpellation et sur celle du sénateur Forrestall, car, ensemble, les sénateurs peuvent se pencher sur cette situation qui porte de plus en plus atteinte à la démocratie.  
+L'honorable Eymard G. Corbin :
+Honorables sénateurs, je me demande si le sénateur Grafstein serait prêt à répondre à une question. 
+Je ne crois pas qu'il nous ait dit combien de Canadiens participent à la Mission de vérification au Kosovo. 
+Pourrait-il nous dire s'ils y participent de leur plein gré ou s'ils ont été relevés de leurs autres fonctions pour être envoyés là-bas?  
+Le sénateur Grafstein :
+Si j'ai bien compris, ce sont tous des volontaires. 
+Ils sont pleinement conscients du danger et vont au Kosovo à titre de volontaires. 
+Il y a parmi eux des membres de la police militaire, des avocats, des travailleurs sociaux et d'autres. 
+Ce sont tous des volontaires.  
+(Sur la motion du sénateur Roche, le débat est ajourné.)  
+Affaires étrangères 
+Les réformes du Fonds monétaire international-Autorisation au comité d'étudier la question-Modification de l'avis de motion 
+L'ordre du jour appelle: 
+Que le comité sénatorial permanent des affaires étrangères soit autorisé à examiner les réformes possibles du Fonds monétaire international, surtout en ce qui concerne ses activités de surveillance économique et financière et ses pratiques d'octroi de prêts, et qu'il soit également autorisé à faire rapport sur la question, et sur d'autres aspects du commerce et des finances au niveau international; 
+Que le comité ait le pouvoir de recourir aux services de conseillers, de spécialistes, d'employés de bureau et de tout personnel qu'il jugera nécessaire pour effectuer les travaux définis dans l'ordre de renvoi; 
+Que le comité ait le pouvoir de se déplacer à l'intérieur et à l'extérieur du Canada; et 
+Que le comité présente son rapport final au plus tard le 31 mars 2000 et que le comité conserve les pouvoirs nécessaires à la diffusion des résultats de son étude contenus dans son rapport final et ce, jusqu'au 22 avril 2000.  
+L'honorable John B. Stewart :
+Honorables sénateurs, on me dit qu'il faut modifier cette motion en en retranchant les deuxième et troisième paragraphes. 
+Je crois comprendre que la présidence est autorisée par le Sénat à corriger l'avant-projet de motion. 
+Je propose la motion inscrite à mon nom dont on a retranché ces deux paragraphes.  
+Son Honneur le Président :
+Honorables sénateurs, l'honorable sénateur Stewart, appuyé par l'honorable sénateur Watt, propose: 
+Que le comité sénatorial permanent des affaires étrangères soit autorisé à examiner les réformes possibles du Fonds monétaire international, surtout en ce qui concerne ses activités de surveillance économique et financière et ses pratiques d'octroi de prêts, et qu'il soit également autorisé à faire rapport sur la question, et sur d'autres aspects du commerce et des finances au niveau international; et 
+Que le comité présente son rapport final au plus tard le 31 mars 2000 et que le comité conserve les pouvoirs nécessaires à la diffusion des résultats de son étude contenus dans son rapport final et ce, jusqu'au 22 avril 2000.  
+Vous plaît-il, honorables sénateurs, d'adopter la motion?  
+Des voix:
+D'accord.  
+(La motion est adoptée.)  
+Le Canada et le défi nucléaire 
+Motion d'approbation du rapport du comité des affaires étrangères et du commerce international-Recours au Règlement-Suspension du débat 
+L'honorable Douglas Roche , conformément à l'avis du 3 mars 1999, propose: 
+Que, étant donné que la prolifération des armes nucléaires est une menace réelle et permanente pour la sécurité dans le monde, et reconnaissant les conclusions non équivoques du comité permanent des affaires étrangères et du commerce international dans son étude intitulée: «Le Canada et le défi nucléaire», le Sénat du Canada appuie entièrement les objectifs de désarmement et de non-prolifération contenus dans le rapport et exhorte le gouvernement du Canada à préparer sa réponse en tenant compte attentivement des recommandations du comité.  
+Recours au Règlement 
+L'honorable Noël A. Kinsella (chef adjoint suppléant de l'opposition) :
+Honorables sénateurs, j'invoque le Règlement. 
+Je n'ai rien contre le principe énoncé dans la motion, mais il pourrait être utile que les honorables sénateurs obtiennent des éclaircissements et des instructions du Président. 
+Je lis la motion, et il me semble qu'elle repose sur un rapport de l'autre endroit. 
+À ma connaissance, le Sénat n'a pas reçu de message de l'autre endroit à ce sujet. 
+C'est ma première préoccupation.  
+Honorables sénateurs, un des principes que l'on retrouve partout dans le Règlement de cet endroit, c'est qu'il faut maintenir une distinction très nette, dans notre Parlement bicaméral, entre l'autre endroit et le Sénat. 
+Par exemple, au Sénat, les sénateurs ne peuvent lire des discours tirés du hansard de l'autre endroit. 
+Il semble que ce soit un principe. 
+Je ne sais pas si ce principe vaut aussi pour les rapports. 
+Ce qui importe, c'est que nous formons une Chambre distincte. 
+Odger's Australian Senate Practice , qui traite de la procédure du système bicaméral, souligne que: 
+Dans un système bicaméral, la conduite des relations entre les deux Chambres du Parlement revêt une importance considérable...  
+J'invoque le Règlement non pas parce que je suis contre le principe sous-jacent de la motion. 
+Cependant, je souligne, à titre de problème sérieux, l'importance de la séparation des deux Chambres. 
+Comme le dit Odger, cela revêt en effet une importance considérable.  
+Si l'essence de la motion a trait au rapport de l'autre endroit, nous devons déterminer si le rapport nous est présenté sous forme de message. 
+Nous est-il transmis de façon spéciale ou devons-nous simplement le consulter à la bibliothèque? 
+Ce n'est pas comme s'il s'agissait d'un rapport de l'autre endroit. 
+Ce n'est qu'une publication comme les autres. 
+Si c'est le cas, je ne vois aucun problème sur le plan de la procédure.  
+Dans la 22e édition de l'ouvrage Parliamentary Practice d'Erskine May, à la page 610, sous la rubrique intitulée: «Communications entre les lords et les Communes», l'auteur attire encore notre attention sur le fait que: 
+Les deux Chambres du Parlement ont fréquemment l'occasion de communiquer ensemble, non seulement en ce qui concerne des projets de loi requérant l'assentiment des deux Chambres, mais encore en ce qui concerne d'autres questions liées aux travaux du Parlement. 
+Il est clair que le rapport faisant l'objet de la motion du sénateur émane de l'autre endroit, mais il importe de savoir comment il a été transmis au Sénat. 
+La communication se fait habituellement sous forme de message. 
+Nous avons tous fait partie de comités mixtes, mais dans le cas du rapport d'un comité mixte, nous sommes partie à ce rapport. 
+Je ne sais pas exactement comment l'autre endroit traite un tel rapport et ses constatations. 
+J'inviterai d'autres sénateurs à nous faire part de leur point de vue là-dessus. 
+Si d'autres sénateurs considèrent que cette question n'a pas une grande importance - bien que les ouvrages laissent entendre le contraire -, je n'ai aucune objection à l'égard de la motion. 
+Cependant, je voudrais entendre d'autres points de vue.  
+L'honorable Sharon Carstairs (leader adjoint du gouvernement) :
+Honorables sénateurs, la motion du sénateur Roche soulève deux questions. 
+La première a trait à la question de savoir, comme l'a dit le sénateur Kinsella, si le Sénat devrait débattre un rapport de l'autre endroit que nous n'avons pas étudié. 
+Le comité sénatorial permanent des affaires étrangères, qui aurait normalement dû produire un tel rapport, n'a pas songé à étudier le rapport. 
+Puis il y a la question de la prolifération des armes nucléaires et de la menace planant sur la sécurité mondiale qui a été soulevée par le sénateur Roche.  
+Il est évident que le Président doit se prononcer sur la recevabilité de la motion. 
+Peut-être le sénateur Roche sera-t-il prêt à se présenter au Sénat à notre prochaine séance avec une motion modifiée par l'élimination de la référence à la Chambre des communes. 
+Nous pourrions alors l'étudier. 
+Évidemment, c'est au sénateur Roche de décider.  
+Le sénateur Roche :
+Honorables sénateurs, je remercie les sénateurs Kinsella et Carstairs de leurs interventions. 
+Il va sans dire que je tiens absolument à suivre le Règlement du Sénat à la lettre. 
+C'est en toute innocence que j'ai donné préavis de la motion il y a une semaine et que j'ai constaté que j'avais attiré l'attention...  
+Son Honneur le Président :
+Je suis désolé, mais je dois interrompre l'honorable sénateur. 
+Comme il est 16 h 30, je suis prêt à dire que j'étudierai la question plus à fond, en espérant que cela vous donne satisfaction.  
+L'honorable Eymard G. Corbin :
+Je voudrais participer au rappel au Règlement.  
+Son Honneur le Président :
+Je suis désolé, mais le Président a le droit de décider quand il a assez entendu d'interventions sur un rappel au Règlement. 
+Afin d'accélérer nos travaux, je préférerais prendre la question en délibéré et faire rapport plus tard, à moins que le sénateur Corbin n'insiste.  
+Le sénateur Corbin :
+Suspendez-vous la séance?  
+Son Honneur le Président :
+Oui.  
+Le sénateur Corbin :
+Je n'ai pas d'objection, mais nous pourrons continuer lorsque nous reprendrons nos travaux.  
+Son Honneur le Président :
+Le Sénat s'ajourne maintenant à loisir en attendant l'arrivée de Son Excellence.  
+(Le Sénat s'ajourne à loisir.)  
+Sanction Royale 
+Loi modifiant la Loi sur les sociétés d'assurances (Projet de loi C-59, Chapitre 1, 1999 ) 
+Loi modifiant la Loi sur la concurrence et d'autres lois en conséquence (Projet de loi C-20, Chapitre 2, 1999) 
+Loi portant modification de la Loi sur le Nunavut relativement à la Cour de justice du Nunavut et modifiant diverses lois en conséquence (Projet de loi C-57, Chapitre 3, 1999 ) 
+Loi modifiant la Loi sur la Monnaie royale canadienne et la Loi sur la monnaie (Projet de loi C-41, Chapitre 4, 1999 ) 
+Loi modifiant le Code criminel, la Loi réglementant certaines drogues et autres substances et la Loi sur le système correctionnel et la mise en liberté sous condition (Projet de loi C-51, Chapitre 5, 1999 ) 
+Loi visant à changer le nom de la circonscription électorale d'Argenteuil-Papineau (Projet de loi C-465, Chapitre 6, 1999 ) 
+Loi visant à changer le nom de la circonscription électorale de Stormont-Dundas (Projet de loi C-445, Chapitre 7, 1999 ) 
+Loi visant à changer le nom de la circonscription électorale de Sackville-Eastern Shore (Projet de loi C-464, Chapitre 8, 1999 ) 
+La Chambre des communes se retire.  
+Il plaît à l'honorable suppléant de Son Excellence le Gouverneur général de se retirer.  
+Le Sénat reprend sa séance.  
+Le Canada et le défi nucléaire 
+Motion d'approbation du rapport du comité des affaires étrangères et du commerce international-Recours au Règlement-Prise en délibéré de la décision par la présidence 
+L'ordre du jour appelle: 
+Reprise du débat sur la motion de l'honorable sénateur Douglas Roche, appuyée par le sénateur Keon: 
+Que, étant donné que la prolifération des armes nucléaires est une menace réelle et permanente pour la sécurité dans le monde, et reconnaissant les conclusions non équivoques du comité permanent des affaires étrangères et du commerce international dans son étude intitulée: «Le Canada et le défi nucléaire», le Sénat du Canada appuie entièrement les objectifs de désarmement et de non-prolifération contenus dans le rapport et exhorte le gouvernement du Canada à préparer sa réponse en tenant compte attentivement des recommandations du comité.  
+Son Honneur le Président :
+Honorables sénateurs, lorsque nous avons ajourné la séance, l'honorable sénateur Kinsella avait fait un rappel au Règlement et l'honorable sénateur Corbin avait la parole.  
+L'honorable Eymard G. Corbin :
+Honorables sénateurs, je tiens à souligner d'emblée que je n'ai rien à redire au sujet de l'objectif du sénateur Roche. 
+Ce n'est pas là que réside le problème. 
+Je partage ici assez intégralement le point de vue du sénateur Kinsella, mon collègue du Nouveau-Brunswick.  
+Il se trouve qu'aucun comité du Sénat n'a eu l'occasion d'examiner en détail les préliminaires qui ont amené un comité de la Chambre des communes à tirer certaines conclusions. 
+Toutefois, je suis loin d'être convaincu que nous avons eu une période raisonnable et suffisante pour analyser cette question en profondeur.  
+Honorables sénateurs, il est sans doute superflu de dire que personne n'est contre la paternité et la maternité et que tous sont contre les armes nucléaires au pays. 
+Je suis certain que tous partagent ce point de vue, sauf peut-être quelques excentriques. 
+Ce n'est pas vraiment la question qui nous préoccupe. 
+Il est ici question des rapports entre les deux Chambres. 
+Il existe des façons de faire les choses.  
+La Chambre des communes a décidé de ne pas inviter le Sénat à se joindre à elle pour former un comité mixte chargé d'examiner cette question, comme elle l'a fait par le passé à propos de questions d'intérêt national et international. 
+Je ne comprends toujours pas, en l'occurrence, pourquoi nous n'avons pas été invités. 
+Néanmoins, il s'agit là d'une question tellement lourde de conséquences que notre institution et ses membres sont en droit de mener leur propre étude, leur propre recherche.  
+Nous existons pour une bonne raison. 
+Ce n'est pas pour rien que nous amendons souvent les projets de loi qui nous parviennent de l'autre endroit. 
+On peut faire une analogie avec la question dont le sénateur Roche a saisi le Sénat. 
+Je trouve à redire au libellé de sa motion. 
+Il aurait dû préciser que le rapport du comité en question venait d'un comité de la Chambre des communes. 
+Je le lui ai fait remarquer en privé, et je pense qu'on devrait modifier la motion à cet égard de sorte que tout le monde connaisse la source de l'information. 
+Encore une fois, je reconnais son droit absolu de saisir le Sénat d'une question au moyen d'une interpellation ou d'une motion en bonne et due forme ou autrement. 
+C'est ici un endroit pour discuter, pour débattre.  
+Oublions cela un instant et rappelons que la motion traite d'une affaire qui émane de l'autre endroit. 
+Il y a des façons de traiter les questions ou les invitations qui émanent de l'autre endroit. 
+Compte tenu de ce qui se produit ces jours-ci, compte tenu du fait que le Sénat est pris à partie par des députés de l'autre endroit, dans les médias et l'opinion publique, nous devons faire tout ce qui est possible pour éviter qu'on porte atteinte à l'indépendance de cette Chambre. 
+Si nous faisons quelque chose, nous devons le faire de façon ordonnée et conformément aux traditions.  
+Au lieu de demander au Sénat d'arriver maintenant à une conclusion, je propose au sénateur Roche de modifier sa motion de manière à ce que la question soit renvoyée au comité sénatorial permanent des affaires étrangères. 
+Ce comité ferait ensuite rapport à la Chambre de ses conclusions quant à l'opportunité pour ce comité d'entreprendre sa propre étude approfondie de la question. 
+Nous pourrions ensuite adopter une position éclairée et judicieuse et prendre une décision rationnelle au sujet de la proposition que le sénateur nous a présentée. 
+C'est tout ce que je voulais dire aujourd'hui.  
+L'honorable John B. Stewart :
+Honorables sénateurs, d'une part, nous avons parlé de procédure, et de l'autre, nous avons aussi beaucoup parlé de la teneur. 
+Il me semble que le recours au Règlement est lié à la procédure. 
+Je ne connais aucune règle et aucun précédent qui diraient que le Sénat ne peut pas prendre connaissance d'un document public même s'il provient de l'autre endroit. 
+Qu'est-ce qui nous en empêcherait? 
+Peut-être y a-t-il des précédents, mais je ne m'en souviens pas.  
+Il ne s'agit pas d'un projet de loi suivant le processus législatif. 
+Je ne vois pas pourquoi nous ne pourrions pas faire la même chose avec un rapport de la Chambre des communes.  
+Par ailleurs, si le Sénat permettait au sénateur Roche de présenter sa motion, nous pourrions alors faire toutes sortes de déclarations sur l'horaire chargé des sénateurs, particulièrement des membres du comité des affaires étrangères. 
+Si vous regardez les deux motions précédentes du comité des affaires étrangères, vous constaterez que ce comité prévoyait un horaire chargé. 
+C'est là une question de fond.  
+Quant à la procédure, il s'agit de déterminer si nous pouvons prendre connaissance du rapport de l'autre endroit. 
+À ce que je sache, aucune bonne raison ne nous en empêche.  
+L'honorable Douglas Roche :
+Honorables sénateurs, je trouve encourageants les propos des sénateurs Kinsella, Carstairs, Corbin et Stewart. 
+Je répète que je suis tout à fait disposé - et cela va sans dire - à respecter le Règlement du Sénat .  
+J'ai donné avis de cette motion il y a une semaine, de bonne foi - et, je le répète, peut-être en toute innocence -, croyant qu'elle serait recevable. 
+Depuis lors, je n'ai reçu aucune indication de quiconque voulant qu'il en serait autrement.  
+Je me préoccupe que nous amorcions un débat de procédure à propos de l'efficacité avec laquelle nous traitons d'un rapport de la Chambre. 
+Cela me préoccupe moins que le fait d'attirer respectueusement l'attention du Sénat sur les principes sous-jacents de la motion et de demander aux sénateurs d'exprimer leur point de vue à cet égard. 
+Si je reçois un avis sur cette question - c'est-à-dire que si c'est le jugement qui m'est présenté -, je serai heureux de modifier la motion et de supprimer l'allusion à la Chambre. 
+Je la rayerai du Feuilleton .  
+En ce qui concerne les remarques que le sénateur Stewart a faites après le sénateur Corbin, je trouve moi aussi que le comité sénatorial permanent des affaires étrangères a déjà beaucoup de travail. 
+Comme le sénateur Stewart vient de nous le rappeler, ce comité vient de se voir confier deux nouveaux mandats. 
+J'hésiterais à lui imposer de faire une étude approfondie de ce sujet. 
+Je croyais que l'information contenue dans l'étude faite par la Chambre des communes était d'une telle qualité - après tout, il lui a fallu deux ans pour la faire - que les sénateurs pourraient la consulter pour se renseigner sur la question. 
+Les trois mois qui se sont écoulés depuis ce temps auraient donné aux sénateurs suffisamment de temps pour décider de quel côté se ranger sur cette question.  
+Je ne veux imposer mon point de vue à personne. 
+J'espère simplement que le Sénat pourra se prononcer sur la question dont il est saisi, soit la recommandation essentielle qui a été faite relativement à l'examen des politiques de l'OTAN. 
+Cette question est assez urgente, et je ne suis pas prêt à demander au Sénat de faire une longue étude parce que le sommet de l'OTAN qui doit avoir lieu le 15 avril, et dont on a beaucoup entendu parler, traitera de la demande qu'il y ait un examen des politiques de l'OTAN concernant les armes nucléaires.  
+Le gouvernement du Canada est saisi de cette question. 
+Dans quelques jours, le Cabinet recevra une présentation qui lui donnera l'occasion d'adopter une politique gouvernementale officielle, en se fondant sur les renseignements que contenait le rapport de la Chambre, qui est résumé en 15 recommandations. 
+Donc, «pour que le Sénat soit efficace», pour reprendre les paroles du sénateur Corbin, et je suis certes d'accord avec ses propos concernant la nécessité d'établir l'efficacité du Sénat, j'ai pensé qu'il serait utile que, dans ses délibérations entourant le libellé d'une déclaration officielle relative aux politiques du Canada en matières d'armes nucléaires, le Cabinet tienne compte du point de vue du Sénat du Canada exprimé dans la motion à l'étude.  
+Honorables sénateurs, je suis face à un dilemme que j'exprimerai de la façon suivante. 
+Je me plierai instantanément à votre décision. 
+Si vous jugez que ma motion est recevable, je prendrai la parole à ce sujet. 
+Si vous croyez qu'elle pose un problème, je proposerai un amendement, si vous me le permettez. 
+Toutefois, cet amendement n'existe pas encore par écrit. 
+J'aimerais en négocier la teneur avec les leaders des deux côtés de la Chambre. 
+Si telle est votre décision, je reviendrai présenter une motion modifiée qui aura une chance raisonnable d'être adoptée par le Sénat. 
+J'aimerais adopter cette mesure dans les meilleurs délais raisonnables pour toutes les parties intéressées.  
+Le sénateur Kinsella :
+Honorables sénateurs, c'est la première fois que nous sommes en mesure d'émettre dans cette enceinte des réserves sur la motion dont nous sommes saisis relativement au moment de sa présentation et de son étude au Sénat.  
+À l'instar du sénateur Corbin, je pense que cela soulève un point important au sujet de notre système bicaméral. 
+La motion ne dit pas simplement que nous devons prendre connaissance, puisqu'elle dit notamment: «reconnaissant les conclusions non équivoques du comité permanent des affaires étrangères et du commerce international» - ce qui se reporte, nous le savons tous, au comité permanent de la Chambre des communes. 
+Au paragraphe suivant, on dit que le Sénat «appuie» ce rapport. 
+Si la motion est adoptée, elle deviendra une motion du Sénat selon laquelle nous appuyons entièrement les objectifs contenus dans le rapport. 
+C'est ce que dit la motion.  
+Il y a une troisième action contenue dans la motion, c'est-à-dire que le Sénat exhorte le gouvernement à tenir compte attentivement des recommandations du rapport.  
+Ce rapport est bien relié à la motion dans le cas présent et il s'agit pratiquement d'un projet de loi qui nous arrive sous la forme d'un message. 
+Il ne s'agit pas d'une autre oeuvre littéraire dont nous prenons simplement connaissance aux termes de la motion dont nous sommes saisis. 
+Je tiens à le souligner.  
+L'honorable Jerahmiel S. Grafstein :
+Honorables sénateurs, j'ai parcouru rapidement le rapport de l'autre comité permanent. 
+Je l'ai fait à la suite d'une séance d'information que le sénateur Roche a convoquée avec le comité sénatorial permanent des affaires étrangères pour préparer notre rencontre d'hier avec l'ex-secrétaire américain à la Défense, Robert McNamara, l'ex-général Lee Butler, l'ambassadeur Graham et d'autres témoins. 
+Je crois que nous nous sommes réunis la veille. 
+C'était la première fois que j'étais saisi de ce rapport, et je l'ai lu à l'instigation du président. 
+Comme le président avait dit que nous devrions étudier ce rapport, je l'ai parcouru rapidement.  
+Le sénateur Stewart :
+On nous a exhortés à lire le rapport et maintenant, on nous dit que nous n'aurions pas dû en prendre connaissance.  
+Le sénateur Grafstein :
+J'en ai pris connaissance et je l'ai parcouru à la hâte. 
+Je pense que le sénateur Roche nous met dans un certain dilemme, et je vais vous expliquer mon dilemme personnel.  
+La dernière fois que nous avons, en fait, pris connaissance d'un rapport du comité des affaires étrangères de l'autre endroit, ce rapport portait, si je ne m'abuse, sur l'expansion de l'OTAN. 
+Après en avoir discuté, le Sénat s'est opposé aux recommandations du comité et à la politique du gouvernement. 
+Je crois avoir été le seul parlementaire à prononcer un discours contre l'expansion de l'OTAN. 
+J'ai été le seul, parce que j'ai insisté pour intervenir même si nous en étions à la fin de la session. 
+Je me trompe peut-être. 
+Il y a peut-être d'autres sénateurs qui sont intervenus, mais, à ma connaissance, j'ai été le seul.  
+L'honorable Marcel Prud'homme :
+Je m'y suis opposé, moi aussi.  
+Le sénateur Grafstein :
+Le sénateur Prud'homme dit m'avoir apporté son appui.  
+Ce que je veux faire valoir, c'est que, à la séance d'hier, lors de l'interrogatoire des témoins qui appuyaient ces recommandations qu'on nous demande maintenant d'appuyer, on nous a dit que le comité avait tort parce qu'il était improductif, si je puis dire, d'appuyer l'expansion pour ensuite préconiser la réduction du nucléaire. 
+Cela relevait de la politique erratique que de susciter d'abord l'expansion des armes nucléaires pour ensuite en préconiser la réduction.  
+Cela étant dit, les décisions que prend l'autre endroit à des fins immédiates, notamment celles qu'il a prises récemment en matière de politique étrangère, me laissent sceptique. 
+J'y détecte une réaction improvisée à des questions publiques populaires plutôt qu'une étude en profondeur.  
+Néanmoins, j'ai été très impressionné par les visiteurs distingués qui étaient très entichés du rapport. 
+Je voudrais bien être entiché du rapport. 
+C'est flatteur que de grands spécialistes américains appuient un rapport du Parlement, mais je ne suis pas convaincu.  
+Le sénateur Corbin :
+L'appui n'était pas unanime.  
+Le sénateur Grafstein :
+L'interrogatoire d'une heure, hier, qui n'a pas porté sur les questions de stratégie, qui n'a pas porté sur la question de la suppression du système d'alerte, qui n'a pas porté sur les problèmes en Russie, qui n'a traité d'aucun de ces problèmes en profondeur, ne m'a pas convaincu non plus que nous devrions approuver d'un coup toutes les recommandations. 
+Je suis prêt à faire les recherches voulues et à participer au débat, mais les visiteurs d'hier et les recommandation ont soulevé quelques questions d'ordre stratégique fort complexes. 
+L'amateur solitaire que je suis n'est pas rassuré par la proposition qui a été déposée, laquelle consiste essentiellement à renoncer à la capacité de première frappe sur la base d'une proposition morale. 
+Or, nous ne vivons pas dans un monde moral, et c'est pourtant sur cette base que repose le tout.  
+Compte tenu des preuves que j'ai entendues hier, je ne suis pas convaincu. 
+Après une lecture superficielle du rapport, j'ai encore des doutes. 
+J'ignore ce vers quoi nous nous en allons à partir de là.  
+Son Honneur le Président :
+Honorables sénateurs, nous abordons le fond du sujet. 
+Or, la question dont nous sommes saisis, le recours au Règlement, c'est de savoir si, oui ou non, l'affaire est recevable; le fond du sujet n'est pas en cause. 
+Si aucun sénateur ne souhaite prendre la parole, je vais prendre cette question en délibéré.  
+Le sénateur Stewart :
+Honorables sénateurs, je propose que le sénateur Roche demande la permission de retirer cette motion et, s'il le souhaite, qu'il présente une motion ne faisant aucune référence à la Chambre des communes, mais reprenant les termes qui figurent dans la recommandation 15, soit que l'OTAN devrait examiner toute la question. 
+Nous ne prendrions aucune décision dans un sens ou dans l'autre; nous demanderions tout simplement à l'OTAN de l'examiner.  
+Cela parerait au problème de procédure et nous éviterait de nous lancer dans une longue discussion et une longue étude sur la validité de l'argument de base.  
+L'honorable Nicholas W. Taylor :
+Honorables sénateurs, les pages 252 et 253 de la sixième édition de l'ouvrage de Beauchesne traitent du débat de rapports. 
+À mon avis, pourvu qu'un rapport soit déposé, son origine importe peu.  
+Le sénateur Corbin :
+Elle importe.  
+Le sénateur Taylor :
+Le sénateur voudra peut-être déposer le rapport et il pourrait ensuite être débattu. 
+À mon avis, rien n'empêche de déposer un rapport dans cette Chambre, qu'il vienne de l'autre endroit, de la Russie ou d'ailleurs. 
+Lorsqu'un rapport est déposé, il peut être débattu. 
+Je ne vois rien dans le Beauchesne qui dit que l'origine du rapport détermine s'il peut être déposé.  
+Le sénateur Corbin :
+J'interviens pour demander une clarification que je considère indispensable. 
+Il ne nous a jamais été officiellement renvoyé aux fins d'étude. 
+C'est l'argument fondamental que tous les sénateurs font valoir ici cet après-midi. 
+Nous voudrions tous que le rapport soit déposé officiellement.  
+Le sénateur Stewart a déclaré que ce n'était pas un projet de loi. 
+Mais il n'y a pas que les projets de loi qui sont renvoyés d'une Chambre à l'autre. 
+Il y a aussi des rapports, des invitations et toutes sortes de messages. 
+Il va sans dire que, lorsqu'on nous demande d'approuver un rapport, de l'étudier attentivement, nous avons le droit de pouvoir le faire afin de tirer logiquement des conclusions. 
+En fait, si le rapport était correctement soumis au Sénat ou à un de ses comités, certains sénateurs voudraient peut-être y proposer des modifications. 
+Rien ne nous en empêche. 
+Cependant, compte tenu du libellé de la motion, je ne suis pas disposé à l'appuyer, même si je suis favorable à l'interdiction des armes nucléaires.  
+Le sénateur Prud'homme :
+Honorables sénateurs, nous pourrions débattre de cette question ad nauseam . 
+Je suis en désaccord avec les propos du sénateur Corbin et en accord avec ceux du sénateur Taylor à l'effet que l'on peut étudier tous les rapports possibles.  
+Le sénateur Kinsella a invoqué le Règlement. 
+Je vais vous résumer ma pensée. 
+Je souhaiterais vivement ce débat.  
+Le distingué président du comité des affaires étrangères a fait une suggestion très sage.  
+Je comprends les motivations du sénateur Roche. 
+À mon avis, le Président et le sénateur Kinsella devraient permettre au sénateur Roche de faire comme le propose le président bien avisé du comité sénatorial permanent des affaires étrangères et de modifier sa proposition en conséquence. 
+Cela devrait satisfaire le sénateur Corbin, qui a fait valoir de bons arguments. 
+Après tout, je suis certain que le sénateur Roche sera d'accord. 
+Avant d'accepter un rapport qui comporte 15 recommandations, il est normal de vouloir les lire toutes et d'en peser le pour et le contre. 
+Je partage l'avis du sénateur Corbin à cet égard. 
+À l'instar du sénateur Taylor, je pense que rien ne nous empêche d'étudier quelque rapport que ce soit. 
+Nous devons nous pencher sur la question du sénateur Kinsella.  
+En résumé, je pense que le sénateur Stewart a fait une proposition très concrète et qu'il appartient maintenant au sénateur Roche de dire s'il l'accepte, s'il la rejette ou s'il veut la modifier. 
+Comme je le connais, et compte tenu de ses motivations véritables, je pense qu'il trouvera la proposition du sénateur Stewart satisfaisante.  
+Le sénateur Roche :
+Je tiens beaucoup à éviter de vous causer un problème, Votre Honneur, et encore moins au Sénat lui-même. 
+Je veux tout d'abord à exprimer ma gratitude au sénateur Stewart. 
+J'approuve l'utilisation de l'épithète «sage» que le sénateur Prud'homme a accolée au sénateur Stewart. 
+Ce dernier nous a en effet proposé une solution judicieuse.  
+Deuxièmement, aux fins de la discussion, je suis disposé à retirer de la table le rapport de la Chambre des communes. 
+Oublions cela. 
+Je suis disposé à le faire, un point c'est tout. 
+Je désirerais donc modifier ma motion, avec le consentement du Sénat, pour lui substituer le texte suivant: 
+Que le Sénat recommande au gouvernement du Canada d'exhorter l'OTAN à réexaminer sa politique d'armement nucléaire lors du sommet de l'OTAN en avril 1999. 
+Si Votre Honneur juge que la modification que je suis disposé à apporter est recevable, et si le Sénat veut bien me permettre d'intervenir cinq minutes à ce sujet, je serai très heureux de voir adopter une motion à cette séance-ci afin qu'elle produise un effet sur le gouvernement du Canada.  
+Son Honneur le Président :
+Honorables sénateurs, vous avez tous entendu ce que l'honorable sénateur Roche a dit qu'il ferait. 
+Cependant, la question dont je dois disposer pour le moment est le rappel au Règlement soulevé par l'honorable sénateur Kinsella à propos de la motion dont nous sommes saisis. 
+J'aurais d'abord besoin que l'honorable sénateur Kinsella accepte de retirer son recours au Règlement.  
+Le sénateur Kinsella :
+Premièrement, si une nouvelle motion est présentée cet après-midi, tous les sénateurs n'auront pas été avisés de cette nouvelle motion et, par conséquent, nous nous trouverons à étudier quelque chose dont d'autres sénateurs n'auront pas été informés. 
+C'était là mon premier point.  
+Deuxièmement, si nous semblons parfois vouloir suivre scrupuleusement le Règlement, ou du moins faire très attention aux règles de procédure, c'est parce que nous, qui formons la minorité, n'avons rien d'autre que le Règlement pour nous défendre. 
+Mes collègues d'en face, et certains de leurs anciens collègues, m'ont appris cette leçon dès mon arrivée ici. 
+J'ai appris beaucoup de certains des distingués sénateurs qui étaient ici auparavant et que j'écoutais très attentivement lorsque l'un d'eux parlait. 
+Je me souviens de les avoir entendus dire souvent que notre système était fondé sur ce principe. 
+La minorité est protégée par le Règlement. 
+Je soulève souvent cette question parce que, sans le Règlement, ce sera toujours le plus puissant qui aura raison.  
+Son Honneur le Président :
+Dois-je comprendre, sénateur Kinsella, que vous ne retirez pas votre rappel au Règlement?  
+Le sénateur Kinsella :
+J'aimerais que le Président se prononce. 
+La question est suffisamment importante. 
+Je crois comprendre que plusieurs sénateurs d'en face souscrivent à cette position.  
+Le sénateur Prud'homme :
+Honorables sénateurs, le sénateur Kinsella a un très bon argument. 
+Lorsque j'étais à la Chambre des communes, des motions surprises étaient parfois présentées après qu'une bonne partie des députés aient déjà quitté les lieux. 
+Je m'opposais toujours, parfois énergiquement, à ce genre de motions présentées à l'insu de la majorité des députés.  
+J'invite mon ami et collègue à accepter. 
+La première partie, au moins, de ce que disait le sénateur Kinsella est assurément raisonnable. 
+Les sénateurs qui sont absents actuellement ne sont pas au courant qu'il y a une nouvelle motion et elle pourrait facilement être adoptée. 
+Aussi, si le sénateur Roche veut bien accepter la recommandation éclairée du sénateur Kinsella, à savoir, premièrement, s'en tenir à sa proposition et, deuxièmement, accepter que la Chambre l'examine à la prochaine séance, le Président n'aurait pas à se prononcer. 
+J'ignore si cette solution satisfera le sénateur Kinsella.  
+Avant que vous ne rendiez votre décision, Votre Honneur, j'aimerais savoir si le sénateur Kinsella accepterait une solution que tout le monde juge sensée, à savoir que personne ne soit pris par surprise par une motion dont la Chambre n'avait pas été saisie après leur départ.  
+L'honorable Sharon Carstairs (leader adjoint du gouvernement) :
+Votre Honneur, je suis tout à fait de l'avis du sénateur Kinsella à ce sujet. 
+Il a invoqué le Règlement et vous devez rendre une décision. 
+Cela permettra de tirer les choses au clair, non seulement dans le cas présent, mais aussi pour l'avenir.  
+Son Honneur le Président :
+S'il n'y a pas d'autres sénateurs qui désirent prendre la parole, je prendrai la question en délibéré et je ferai connaître ma décision à la première occasion.  
+L'ajournement 
+Permission ayant été accordée de revenir aux avis de motions du gouvernement: 
+L'honorable Sharon Carstairs (leader adjoint du gouvernement) :
+Honorables sénateurs, avec la permission du Sénat, et nonobstant l'article 58(1) h) du Règlement, je propose: 
+Que, lorsque le Sénat s'ajournera aujourd'hui, il demeure ajourné jusqu'à mardi prochain, le 16 mars 1999, à 14 heures.  
+Son Honneur le Président :
+La permission est-elle accordée, honorables sénateurs?  
+Des voix:
+D'accord.  
+(La motion est adoptée.)  
+(Le Sénat s'ajourne au mardi 16 mars 1999, à 14 heures.)  
