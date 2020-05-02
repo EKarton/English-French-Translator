@@ -16,8 +16,23 @@ services:
     depends_on:
       - en-fr-translator
       - fr-en-translator
+      - language-detector
 
     # Join a virtual internal network in Docker that is not accessible in host machine
+    networks:
+      - internal-network
+
+  language-detector:
+    build: 
+      context: .
+      dockerfile: Language-Detector-Webapi/Dockerfile
+    environment:
+      - PORT=5003
+      - FLASK_ENV=development
+    expose:
+      - 5003
+    ports:
+      - "5003:5003"
     networks:
       - internal-network
 

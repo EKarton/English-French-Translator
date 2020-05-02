@@ -9,8 +9,8 @@ $('document').ready(() => {
             this.onReceiveHandler = onReceiveHandler;
             this.onErrorHandler = onErrorHandler;
 
-            this.host_url = "https://en-fr-translator.herokuapp.com"
-            // this.host_url = "http://localhost:5000"
+            // this.host_url = "https://en-fr-translator.herokuapp.com"
+            this.host_url = "http://localhost:5000"
         }
 
         runTranslation() {

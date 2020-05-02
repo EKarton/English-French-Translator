@@ -2,6 +2,15 @@
 *
 
 # Allow files and folders with a pattern starting with !
+
+!Language-Detector/models/Hansard-Multi30k/*
+!Language-Detector/src/dataloader/*
+!Language-Detector/src/model/*
+
+!Language-Detector-Webapi/app.py
+!Language-Detector-Webapi/models.py
+!Language-Detector-Webapi/requirements.txt
+
 !Translator/models/Hansard-Multi30k/*
 !Translator/src/dataloader/*
 !Translator/src/model/*
