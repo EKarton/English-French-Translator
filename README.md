@@ -2,7 +2,7 @@
 
 ## Description
 
-The English French Translator is a web application that tries to make good translations between English and French sentences. It is equipped with two Transformer models - one for translating from English to French, and another from French to English - and was trained on the Hansard+Multi30K dataset. The model that translates from English to French achieved a BLEU score of 35.26, while the model that translates from French to English achieved a BLEU score of  35.20.
+The English French Translator is a web application that tries to make good translations between English and French sentences. It is equipped with two Transformer models - one for translating from English to French, and another from French to English - and was trained on the Hansard+Multi30K dataset. The model that translates from English to French achieved a BLEU score of 35.26, while the model that translates from French to English achieved a BLEU score of 35.20. It also has a Language Detector, a text classifier which uses a bag-of-words on a neural network, achieving an accuracy score of 99.36%.
 
 ## Table of Contents
 * Walkthrough
