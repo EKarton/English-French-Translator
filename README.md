@@ -144,7 +144,7 @@ Instead of using pre-trained models, you can train the models from scratch
 		- Language-Detector/scripts
 		- Language-Detector/src
 
-	2. Create the following **directories on **Google Drive**:
+	2. Create the following **directories on Google Drive**:
 		- Language-Detector/models/Hansard-Multi30k
 
 	3. Open ```Language-Detector/scripts/Notebook - Hansard+Multi30k.ipynb``` on **Google Colab**
@@ -156,7 +156,7 @@ Instead of using pre-trained models, you can train the models from scratch
 		- Translator/scripts
 		- Translator/src
 
-	2. Create the following **directories on **Google Drive**:
+	2. Create the following **directories on Google Drive**:
 		- Translator/models/Hansard-Multi30k
 
 	3. Open ```Translator/scripts/Notebook - Hansard+Multi30k.ipynb``` on **Google Colab**
