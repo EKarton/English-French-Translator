@@ -26,155 +26,113 @@ It should detect the language and translate your text as you type.
 
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is the fastest way to get started with the web app.
 
 ### Prerequisites
 * Unix machine
 * Python 3
 * Pip 3
 
-### Using Pre-Trained Models:
-You can use pre-trained models instead of training one from scratch.
-1. Go to https://drive.google.com/drive/folders/1C3PZYT0csQmDUoijvqnfr5w5wiZprDH_?usp=sharing
-2. Navigate to the ```Hansard-Multi30k``` folder
-3. Download its contents to your local machine at ```models/Hansard-Multi30k/```
+### Installation:
+1. Run the following commands in **the root project directory**:
 
-### Training the model [Optional]:
-Ignore this step if you used pre-trained models. There are two ways to train the model:
+	```bash
+	cd Language-Detector
+	mkdir models
+	cd models
+	mkdir Hansard-Multi30k
+	mkdir Multi30k
+	cd ../../
 
-1. On Google Colab:
+	cd Translator
+	mkdir models
+	cd models
+	mkdir Hansard-Multi30k
+	mkdir Multi30k
+	```
 
-	This is the preferred way as there are free (limited) GPUs on Google Colab
+2. **Download** the following pre-trained models and **save** it in the following directories from https://drive.google.com/drive/folders/1C3PZYT0csQmDUoijvqnfr5w5wiZprDH_?usp=sharing:
 
-	* ##### Setting up the environment
+	- (in Google Drive) ```Language Detector/Hansard-Multi30k/model.pt``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/model.pt```
 
-		1. Make the following directories from your root project directory by running the command:
-			```
-			mkdir models
-			cd models
-			mkdir Hansard
-			mkdir Multi30k
-			mkdir Hansard-Multi30k
-			```
+	- (in Google Drive) ```Language Detector/Hansard-Multi30k/vocab.gz``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/vocab.gz```
 
-		2. Make a new Google Account to host this repo (it will be ~10gb large)
-		3. Upload the entire project directory to Google Drive
+	- (in Google Drive) ```Translator/Hansard-Multi30k/model.en.fr.pt``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/model.en.fr.pt```
 
-	* ##### Running on Colab
-		1. On Google Drive, navigate to the ```English-French-Translator/scripts``` folder
-		2. Click on the ```Notebook - Hansard+Multi30k.ipymb``` file and open it in Google Colaboratory
-		3. Follow the steps in the Notebook
+	- (in Google Drive) ```Translator/Hansard-Multi30k/model.fr.en.pt``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/model.fr.en.pt```
 
-2. On a local machine:
+	- (in Google Drive) ```Translator/Hansard-Multi30k/vocab.inf.5.english.gz``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/vocab.inf.5.english.gz```
 
-	* ##### Setting up the environment
+	- (in Google Drive) ```Translator/Hansard-Multi30k/vocab.inf.5.french.gz``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/vocab.inf.5.french.gz```
 
-		1. Create a virtual environment in the ```src``` directory by running the command:
+3. Install the python packages for each project by **running the command**:
 
-			```
-			cd src
-			virtualenv -p python3.7 .
-			source bin/activate
-			```
+	```bash
+	cd Translator-Webapi
+	virtualenv -p python3 .
+	source bin/activate
+	pip3 install -r requirements.txt
+	deactivate
 
-		2. Install the dependencies by running the command:
-			```
-			pip3 install -r requirements.txt
-			
-			python3.7 -m spacy download en_core_web_sm
-			python3.7 -m spacy download fr_core_news_sm
-			```
+	cd Language-Detector-Webapi
+	virtualenv -p python3 .
+	source bin/activate
+	pip3 install -r requirements.txt
+	deactivate
+	```
 
-		3. Make the following directories from your root project directory by running the command:
-			```
-			mkdir models
-			cd models
-			mkdir Hansard
-			mkdir Multi30k
-			mkdir Hansard-Multi30k
-			```
+4. Run the microservices:
 
+	1. Launch the English-to-French Translator Web Api by opening a **new terminal window** and running **the following commands**:
 
-	* ##### Building the vocabulary
-	  In the root project directory, run the following command:
-	  ```
-	  sh scripts/build-vocabs.sh
-	  ```
-
-
-	* ##### Training the model
-	  In the root project directory, run the following command:
-	  ```
-	  sh scripts/train.sh
-	  ```
-
-	* ##### Testing the model
-	  In the root project directory, run the following command:
-	  ```
-	  sh scripts/test.sh
-	  ```
-
-### Running the Web App:
-
-There are two ways in running the Web App:
-
-1. Through manual setup of microservices:
-
-	* ##### Getting the English to French microservice running:
-
-		In a new Bash window, run the command:
-		```
-		cd src
+		```bash
+		cd Translator-Webapi
+		virtualenv -p python3 .
 		source bin/activate
-		export PORT=5000
-		python3.7 webapp/app.py
-		```
-
-	* ##### Getting the French to English microservice running:
+		pip3 install -r requirements.txt
 		
-		In a new Bash window, run the command:
-		```
-		cd src
-		source bin/activate
 		export PORT=5001
-		python3.7 webapp/worker.py
+		python3 app.py --source-lang en --target-lang fr
 		```
 
-	* ##### Getting the front-facing microservice running:
-		
-		In a new Bash window, run the command:
-		```
-		cd src
+	2. Launch the French-to-English Translator Web Api by opening a **new terminal window** and running **the following commands**:
+
+		```bash
 		source bin/activate
+		
 		export PORT=5002
-		python3.7 webapp/worker.py
+		python3 app.py --source-lang fr --target-lang en
 		```
 
-2. Through Docker Compose
+	3. Launch the Language-Detector Web Api by opening a **new terminal window** and running **the following commands**:
 
-	This is a preferred (but slower) way as it runs the app on an environment close to production
-
-	* ##### Additional Pre-requisites
-
-		You will need to have Docker installed on your local machine.
-
-	* ##### Getting Docker-Compose running
-		1. First, build the docker images by running the command:
-			```
-			docker-compose build
-			```
-
-		2. Next, run the docker images by running the command:
-			```
-			docker-compose up
-			```
-
-	* ##### Shutting down Docker-Compose
-		Run the command:
+		```bash
+		cd Language-Detector-Webapi
+		virtualenv -p python3 .
+		source bin/activate
+		pip3 install -r requirements.txt
+		
+		export PORT=5003
+		python3 app.py
 		```
-		docker-compose down
+
+	4. Launch the Web App by opening a new terminal window and running the following commands:
+
+		```bash
+		cd Webapp
+		virtualenv -p python3 .
+		source bin/activate
+		pip3 install -r requirements.txt
+		
+		export PORT=5000
+		export EN_FR_TRANSLATOR_ENDPOINT=http://en-fr-translator:5001
+    	export FR_EN_TRANSLATOR_ENDPOINT=http://fr-en-translator:5002
+    	export LANGUAGE_DETECTOR_ENDPOINT=http://language-detector:5003
+		python3 app.py
 		```
+
+4. On your browser, go to ```http://localhost:5000```
+
 
 ## Experiments
 Several experiments were conducted on the Multi30k dataset before using the Transformer as the model for the web app
