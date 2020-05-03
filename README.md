@@ -39,7 +39,12 @@ It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 * Pip 3
 
 ### Installation:
-1. Run the following commands in **the root project directory**:
+1. Clone this repository by **running the command**:
+	```bash
+	git clone https://github.com/EKarton/English-French-Translator.git
+	```
+
+2. Run the following commands in **the root project directory**:
 
 	```bash
 	cd Language-Detector
@@ -56,7 +61,7 @@ It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 	mkdir Multi30k
 	```
 
-2. **Download** the following pre-trained models and **save** it in the following directories from https://drive.google.com/drive/folders/1C3PZYT0csQmDUoijvqnfr5w5wiZprDH_?usp=sharing:
+3. **Download** the following pre-trained models and **save** it in the following directories from https://drive.google.com/drive/folders/1C3PZYT0csQmDUoijvqnfr5w5wiZprDH_?usp=sharing:
 
 	- (in Google Drive) ```Language Detector/Hansard-Multi30k/model.pt``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/model.pt```
 
@@ -70,7 +75,7 @@ It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 
 	- (in Google Drive) ```Translator/Hansard-Multi30k/vocab.inf.5.french.gz``` --> (in local directory) ```Language-Detector/models/Hansard-Multi30k/vocab.inf.5.french.gz```
 
-3. Install the python packages for each project by **running the command**:
+4. Install the python packages for each project by **running the command**:
 
 	```bash
 	cd Translator-Webapi
@@ -86,7 +91,7 @@ It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 	deactivate
 	```
 
-4. Run the microservices:
+5. Run the microservices:
 
 	1. Launch the English-to-French Translator Web Api by opening a **new terminal window** and running **the following commands**:
 
@@ -137,7 +142,7 @@ It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 		python3 app.py
 		```
 
-4. On your browser, go to ```http://localhost:5000```
+6. On your browser, go to ```http://localhost:5000```
 
 ### Training the model from scratch [Optional]:
 Instead of using pre-trained models, you can train the models from scratch
