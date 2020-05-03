@@ -223,11 +223,12 @@ Results:
 	```
 	EN_FR_TRANSLATOR_ENDPOINT : https://en-2-fr-translator.herokuapp.com
 	FR_EN_TRANSLATOR_ENDPOINT : https://fr-2-en-translator.herokuapp.com
+    LANGUAGE_DETECTOR_ENDPOINT : https://en-fr-language-detector.herokuapp.com
 	```
 
 4. Build, push, and deploy the Docker image to the ```fr-2-en-translator``` app:
 	```
-	docker build -t en2fr -f dockerfiles/translator-web-api/Dockerfile .
+	docker build -t en2fr -f Translator-Webapi/Dockerfile .
 	docker tag en2fr registry.heroku.com/en-2-fr-translator/web
 	docker push registry.heroku.com/en-2-fr-translator/web
 	heroku container:release web --app en-2-fr-translator
@@ -235,15 +236,23 @@ Results:
 
 5. Build, push, and deploy the Docker image to the ```en-2-fr-translator``` app:
 	```
-	docker build -t fr2en -f dockerfiles/translator-web-api/Dockerfile .
+	docker build -t fr2en -f Translator-Webapi/Dockerfile .
 	docker tag fr2en registry.heroku.com/fr-2-en-translator/web
 	docker push registry.heroku.com/fr-2-en-translator/web
 	heroku container:release web --app fr-2-en-translator
 	```
 
-6. Build, push, and deploy the Docker image to the ```en-fr-translator``` app:
+6. Build, push, and deploy the Docker image to the ```en-fr-language-detector``` app:
 	```
-	docker build -t en-fr -f dockerfiles/webapp/Dockerfile .
+	docker build -t language-detector -f Language-Detector-Webapi/Dockerfile .
+	docker tag language-detector registry.heroku.com/en-fr-language-detector/web
+	docker push registry.heroku.com/en-fr-language-detector/web
+	heroku container:release web --app en-fr-language-detector
+	```
+
+7. Build, push, and deploy the Docker image to the ```en-fr-translator``` app:
+	```
+	docker build -t en-fr -f Webapp/Dockerfile .
 	docker tag en-fr registry.heroku.com/en-fr-translator/web
 	docker push registry.heroku.com/en-fr-translator/web
 	heroku container:release web --app en-fr-translator

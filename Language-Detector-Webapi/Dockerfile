@@ -15,6 +15,7 @@ WORKDIR "/app/Language-Detector-Webapi"
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-RUN python3 -m nltk.downloader punkt
+# NOTE: For Heroku to keep the nltk download files, it needs to be downloaded with the other python libraries
+RUN python -m nltk.downloader punkt -d /opt/conda/lib/nltk_data
 
 CMD python app.py

@@ -2,8 +2,8 @@
 
 $('document').ready(() => {
 
-    // const ENDPOINT = "https://en-fr-translator.herokuapp.com";
-    const ENDPOINT = "http://localhost:5000";
+    const ENDPOINT = "https://en-fr-translator.herokuapp.com";
+    // const ENDPOINT = "http://localhost:5000";
 
     var sourceLangOption = $("#source-lang-dropdown")
     var targetLangOption = $("#target-lang-dropdown")
@@ -16,7 +16,7 @@ $('document').ready(() => {
     var translator = new OnDemandTranslator(ENDPOINT,
         translatedText => {
             targetTextbox.value = translatedText;
-            
+
         }, error => {
             console.error(error);
         }
