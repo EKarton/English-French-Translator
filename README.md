@@ -191,7 +191,7 @@ Results:
     LANGUAGE_DETECTOR_ENDPOINT : https://en-fr-language-detector.herokuapp.com
 	```
 
-4. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app:
+4. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app by **running the following commands**:
 	
 	```bash
 	docker build -t en2fr -f Translator-Webapi/Dockerfile .
@@ -200,7 +200,7 @@ Results:
 	heroku container:release web --app en-2-fr-translator
 	```
 
-5. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app:
+5. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app by **running the following commands**:
 	
 	```bash
 	docker build -t fr2en -f Translator-Webapi/Dockerfile .
@@ -209,7 +209,7 @@ Results:
 	heroku container:release web --app fr-2-en-translator
 	```
 
-6. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-language-detector``` app:
+6. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-language-detector``` app by **running the following commands**:
 	
 	```bash
 	docker build -t language-detector -f Language-Detector-Webapi/Dockerfile .
@@ -218,7 +218,7 @@ Results:
 	heroku container:release web --app en-fr-language-detector
 	```
 
-7. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-translator``` app:
+7. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-translator``` app by **running the following commands**:
 	
 	```bash
 	docker build -t en-fr -f Webapp/Dockerfile .
@@ -248,5 +248,4 @@ Results:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 
