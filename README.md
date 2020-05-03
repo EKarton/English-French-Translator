@@ -22,7 +22,7 @@ The web application looks like this:
     </p>
 </div>
 
-It should translate as you type.
+It should detect and translate your text as you type.
 
 
 ## Getting Started
