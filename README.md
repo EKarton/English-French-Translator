@@ -20,11 +20,14 @@ The web application looks like this:
 
 <div width="100%">
     <p align="center">
-<img src="Webapp/docs/Homepage.png" width="100%"/>
+		<a href="https://en-fr-translator.herokuapp.com/">
+			<img src="Webapp/docs/Homepage.png" width="100%"/>
+		</a>
     </p>
 </div>
 
 It should detect the language and translate the text as you type.
+It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 
 
 ## Getting Started
