@@ -18,7 +18,7 @@ The web application looks like this:
 
 <div width="100%">
     <p align="center">
-<img src="docs/Homepage.png" width="100%"/>
+<img src="Webapp/docs/Homepage.png" width="100%"/>
     </p>
 </div>
 
