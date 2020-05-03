@@ -30,13 +30,14 @@
                     <label class="translate-label">Translate from:</label>
 
                     <!-- Dropdown button -->
-                    <div id="source-lang-dropdown" class="btn-group dropdown" data-value="en">
+                    <div id="source-lang-dropdown" class="btn-group dropdown" data-value="auto">
                         <button type="button" class="btn btn-sm btn-secondary dropdown-toggle" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">
-                            English
+                            Any language
                         </button>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item active" href="#" data-value="en">English</a>
+                            <a class="dropdown-item active" href="#" data-value="auto">Any language</a>
+                            <a class="dropdown-item" href="#" data-value="en">English</a>
                             <a class="dropdown-item" href="#" data-value="fr">French</a>
                         </div>
                     </div>
@@ -97,7 +98,8 @@
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
 
-    <!-- My script -->
+    <!-- My scripts -->
+    <script src="/static/services.js"></script>
     <script src="/static/script.js"></script>
 </body>
 

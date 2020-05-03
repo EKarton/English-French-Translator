@@ -1,84 +1,71 @@
 "use strict";
 
 $('document').ready(() => {
-    class StreamableTranslator {
-        constructor(onReceiveHandler, onErrorHandler) {
-            this.dataToSend = null;
-            this.inFlight = false;
 
-            this.onReceiveHandler = onReceiveHandler;
-            this.onErrorHandler = onErrorHandler;
-
-            // this.host_url = "https://en-fr-translator.herokuapp.com"
-            this.host_url = "http://localhost:5000"
-        }
-
-        runTranslation() {
-            if (!this.inFlight && this.dataToSend != null) {
-
-                let data = this.dataToSend;
-
-                this.inFlight = true;
-                this.dataToSend = null;
-
-                console.log("Sending request to API: " + JSON.stringify(data));
-
-                const url = this.host_url + "/api/v1/translate";
-
-                axios.post(url, data)
-                    .then(data => {
-                        this.onReceiveHandler(data.data);
-                        this.inFlight = false;
-                        this.runTranslation();
-                    })
-                    .catch(error => {
-                        this.onErrorHandler(error);
-                        this.inFlight = false;
-                        this.runTranslation();
-                    });
-            }
-        }
-
-        translate(text, source_lang, target_lang) {
-            console.log(this.inFlight + " | " + JSON.stringify(this.postponedData) + " | " + this.text);
-            this.dataToSend = {
-                'input_text': text,
-                'source_lang': source_lang,
-                'target_lang': target_lang
-            };
-
-            this.runTranslation();
-        }
-
-        getStatus(onSuccessHandler, onErrorHandler) {
-            const url = this.host_url + "/api/v1/status";
-            axios.get(url)
-                .then(() => onSuccessHandler)
-                .catch(error => {
-                    onErrorHandler(error);
-                });
-        }
-    }
+    // const ENDPOINT = "https://en-fr-translator.herokuapp.com";
+    const ENDPOINT = "http://localhost:5000";
 
     var sourceLangOption = $("#source-lang-dropdown")
     var targetLangOption = $("#target-lang-dropdown")
     var sourceTextbox = document.getElementById('source-text-txtbox')
     var targetTextbox = document.getElementById('target-text-txtbox');
 
-    var translator = new StreamableTranslator(
+    var selectedSourceLang = sourceLangOption.data("value");
+    var selectedTargetLang = targetLangOption.data("value");
+
+    var translator = new OnDemandTranslator(ENDPOINT,
         translatedText => {
             targetTextbox.value = translatedText;
+            
         }, error => {
-            console.error(error.response);
+            console.error(error);
         }
     );
+    var languageDetector = new OnDemandLanguageDetector(ENDPOINT, language => {
+        console.log(`Predicted language: ${language}`);
+        
+        let sourceLang = language;
+        let targetLang = language == "en" ? "fr" : "en";
 
-    translator.getStatus(() => {
-        console.log("Success in contacting with server");
+        // Set the text of "auto" to "English (Detected)" or "French (Detected)"
+        if (sourceLang == "en") {
+            changeSelectedOptionInDropdown(sourceLangOption, "auto", "English (Detected)");
+            changeSelectedOptionInDropdown(targetLangOption, "fr", "French");
+
+        } else {
+            changeSelectedOptionInDropdown(sourceLangOption, "auto", "French (Detected)");
+            changeSelectedOptionInDropdown(targetLangOption, "en", "English");
+        }
+
+        // Get the source text
+        let sourceText = sourceTextbox.value;
+
+        // Remove the newline character
+        sourceText = sourceText.replace(/(\r\n|\n|\r)/gm, "");
+
+        // Replace all double white spaces with single spaces
+        sourceText = sourceText.replace(/\s+/g, " ");
+
+        if (sourceText.length == 0) {
+            targetTextbox.value = "";
+
+        } else {
+            translator.translate(sourceText, sourceLang, targetLang);
+        }
+
     }, error => {
-        console.error("Error in getting status from server:");
         console.error(error);
     });
+
+    var getStatusWebService = new GetStatusWebService(ENDPOINT);
+    getStatusWebService.getStatus()
+        .then(() => {
+            console.log("Success in contacting with server");
+        })
+        .catch(error => {
+            console.error("Error in getting status from server:");
+            console.error(error);
+        });
 
     $(".dropdown-item").click(function () {
 
@@ -93,25 +80,47 @@ $('document').ready(() => {
         // Set the "active" classname to the selected dropdown item
         $(this).parents(".dropdown-menu").find('a').removeClass('active');
         $(this).addClass('active');
+
+        selectedSourceLang = sourceLangOption.data("value");
+        selectedTargetLang = targetLangOption.data("value");
     });
 
+    function changeSelectedOptionInDropdown(dropdownElement, dataValue, dropdownText) {
+        // Set the text of the selected option
+        dropdownElement.find('.btn').html(dropdownText + '<span class="caret"></span>');
+        dropdownElement.find('.btn').val(dataValue);
+
+        console.log(dropdownText);
+
+        // Set the "active" classname to the selected dropdown item
+        dropdownElement.find(".dropdown-menu").find('a').removeClass('active');
+        dropdownElement.find(".dropdown-item").find(`[data-value='${dataValue}']`).addClass('active');
+    }
+
     sourceTextbox.addEventListener('keyup', function (e) {
-        let source_text = e.target.value;
-        let source_lang = sourceLangOption.data("value");
-        let target_lang = targetLangOption.data("value");
+        let sourceText = e.target.value;
 
         // Remove the newline character
-        source_text = source_text.replace(/(\r\n|\n|\r)/gm, "");
+        sourceText = sourceText.replace(/(\r\n|\n|\r)/gm, "");
 
         // Replace all double white spaces with single spaces
-        source_text = source_text.replace(/\s+/g, " ");
+        sourceText = sourceText.replace(/\s+/g, " ");
 
-        if (source_text.length == 0) {
+        console.log(selectedSourceLang)
+
+        if (sourceText.length == 0) {
             targetTextbox.value = "";
+            
+            if (selectedSourceLang == "auto") {
+                changeSelectedOptionInDropdown(sourceLangOption, "auto", "Any language");
+                changeSelectedOptionInDropdown(targetLangOption, "fr", "French");
+            }
+
+        } else if (selectedSourceLang == "auto") {
+            languageDetector.predictLanguage(sourceText);
 
         } else {
-            console.log('Trying to translate: ' + source_text + ' from ' + source_lang + " to " + target_lang);
-            translator.translate(source_text, source_lang, target_lang);
+            translator.translate(sourceText, selectedSourceLang, selectedTargetLang);
         }
     });
 });
