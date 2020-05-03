@@ -24,7 +24,7 @@ The web application looks like this:
     </p>
 </div>
 
-It should detect the language and translate your text as you type.
+It should detect the language and translate the text as you type.
 
 
 ## Getting Started
