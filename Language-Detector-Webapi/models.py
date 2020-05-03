@@ -24,7 +24,6 @@ class LanguageDetector:
         tokens, _ = get_tokens_from_line(text)
         F = torch.zeros(len(self.word2index))
         for word in tokens:
-            print(word)
             if word in self.word2index:
                 index = self.word2index[word]
                 F[index] = 1
