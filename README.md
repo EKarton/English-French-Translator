@@ -1,4 +1,5 @@
 # English French Translator
+
 ## Description
 
 The English French Translator is a web application that tries to make good translations between English and French sentences. It is equipped with two Transformer models - one for translating from English to French, and another from French to English - and was trained on the Hansard+Multi30K dataset. The model that translates from English to French achieved a BLEU score of 35.26, while the model that translates from French to English achieved a BLEU score of  35.20.
@@ -6,7 +7,8 @@ The English French Translator is a web application that tries to make good trans
 ## Table of Contents
 * Walkthrough
 * Getting Started
-* Usage
+* Experiments
+* Built With
 * Credits
 * License
 
@@ -161,24 +163,28 @@ Results:
 
 
 ## Deploying the Web App to Heroku
-1. Login to Heroku with the command line arg:
-	```
+1. Login to Heroku by **running the command**:
+	
+	```bash
 	heroku container:login
 	```
 
-1. Add these **config** (environment) variables in the ```fr-2-en-translator``` app:
+1. On the **Heroku webpage**, add these **config** (environment) variables in the ```fr-2-en-translator``` app:
+
 	```
 	SOURCE_LANG : fr
 	TARGET_LANG : en
 	```
 
-2. Add these **config** (environment) variables in the ```en-2-fr-translator``` app:
+2. On the **Heroku webpage**, add these **config** (environment) variables in the ```en-2-fr-translator``` app:
+
 	```
 	SOURCE_LANG : en
 	TARGET_LANG : fr
 	```
 
-3. Add these **config** (environment) variables in the ```en-fr-translator``` app:
+3. On the **Heroku webpage**, add these **config** (environment) variables in the ```en-fr-translator``` app:
+
 	```
 	EN_FR_TRANSLATOR_ENDPOINT : https://en-2-fr-translator.herokuapp.com
 	FR_EN_TRANSLATOR_ENDPOINT : https://fr-2-en-translator.herokuapp.com
@@ -187,7 +193,7 @@ Results:
 
 4. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app:
 	
-	``` bash
+	```bash
 	docker build -t en2fr -f Translator-Webapi/Dockerfile .
 	docker tag en2fr registry.heroku.com/en-2-fr-translator/web
 	docker push registry.heroku.com/en-2-fr-translator/web
@@ -196,7 +202,7 @@ Results:
 
 5. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app:
 	
-	``` bash
+	```bash
 	docker build -t fr2en -f Translator-Webapi/Dockerfile .
 	docker tag fr2en registry.heroku.com/fr-2-en-translator/web
 	docker push registry.heroku.com/fr-2-en-translator/web
@@ -205,7 +211,7 @@ Results:
 
 6. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-language-detector``` app:
 	
-	``` bash
+	```bash
 	docker build -t language-detector -f Language-Detector-Webapi/Dockerfile .
 	docker tag language-detector registry.heroku.com/en-fr-language-detector/web
 	docker push registry.heroku.com/en-fr-language-detector/web
@@ -214,7 +220,7 @@ Results:
 
 7. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-translator``` app:
 	
-	```bahs
+	```bash
 	docker build -t en-fr -f Webapp/Dockerfile .
 	docker tag en-fr registry.heroku.com/en-fr-translator/web
 	docker push registry.heroku.com/en-fr-translator/web
@@ -228,18 +234,19 @@ Results:
 * [Ntlk](https://www.nltk.org/) - Used to do word tokenization in the language detector
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 
-## Authors
+## Credits
 
-* Emilio Kartono
+* Emilio Kartono, who made the project
+* Resources used to make the project:
+	* http://www.cs.toronto.edu/~frank/csc401/
+	* https://github.com/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb
+	* http://www.peterbloem.nl/blog/transformers
+	* https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+	* https://homes.cs.washington.edu/~msap/notes/seq2seq-tricks.html
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* http://www.cs.toronto.edu/~frank/csc401/
-* https://github.com/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb
-* http://www.peterbloem.nl/blog/transformers
-* https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
-* https://homes.cs.washington.edu/~msap/notes/seq2seq-tricks.html
