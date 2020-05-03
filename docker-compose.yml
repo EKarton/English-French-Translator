@@ -10,7 +10,7 @@ services:
       - PORT=5000
       - EN_FR_TRANSLATOR_ENDPOINT=http://en-fr-translator:5001
       - FR_EN_TRANSLATOR_ENDPOINT=http://fr-en-translator:5002
-      - LANGUAGE_DETECTOR_ENDPOINT=http://fr-en-translator:5003
+      - LANGUAGE_DETECTOR_ENDPOINT=http://language-detector:5003
     ports:
       - 5000:5000
 

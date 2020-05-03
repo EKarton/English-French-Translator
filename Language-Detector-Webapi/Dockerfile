@@ -15,4 +15,6 @@ WORKDIR "/app/Language-Detector-Webapi"
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
+RUN python3 -m nltk.downloader punkt
+
 CMD python app.py
