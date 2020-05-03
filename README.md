@@ -138,29 +138,29 @@ It should detect the language and translate your text as you type.
 ### Training the model from scratch [Optional]:
 Instead of using pre-trained models, you can train the models from scratch
 
-1. Training the Language-Detector:
-	1. Use a Google Account to upload the following folders to Google Drive:
+1. Training the **Language-Detector**:
+	1. Use a **Google Account** to *upload* the following folders to **Google Drive**:
 		- Language-Detector/data
 		- Language-Detector/scripts
 		- Language-Detector/src
 
-	2. Create the following directories on Google Drive:
+	2. Create the following **directories on **Google Drive**:
 		- Language-Detector/models/Hansard-Multi30k
 
-	3. Open ```Language-Detector/scripts/Notebook - Hansard+Multi30k.ipynb``` on Google Colab
-	4. Follow the instructions on Google Colab
+	3. Open ```Language-Detector/scripts/Notebook - Hansard+Multi30k.ipynb``` on **Google Colab**
+	4. Follow the **instructions on Google Colab**
 
-2. Training the Translator:
-	1. Use a Google Account to upload the following folders to Google Drive:
+2. Training the **Translator**:
+	1. Use a **Google Account** to *upload* the following folders to **Google Drive**:
 		- Translator/data
 		- Translator/scripts
 		- Translator/src
 
-	2. Create the following directories on Google Drive:
+	2. Create the following **directories on **Google Drive**:
 		- Translator/models/Hansard-Multi30k
 
-	3. Open ```Translator/scripts/Notebook - Hansard+Multi30k.ipynb``` on Google Colab
-	4. Follow the instructions on Google Colab
+	3. Open ```Translator/scripts/Notebook - Hansard+Multi30k.ipynb``` on **Google Colab**
+	4. Follow the **instructions on Google Colab**
 
 
 ## Experiments
