@@ -27,6 +27,7 @@ The web application looks like this:
 </div>
 
 It should detect the language and translate the text as you type.
+
 It is hosted on Heroku at <https://en-fr-translator.herokuapp.com/>
 
 
