@@ -98,6 +98,7 @@ This is the fastest way to get started with the web app.
 	2. Launch the French-to-English Translator Web Api by opening a **new terminal window** and running **the following commands**:
 
 		```bash
+		cd Translator-Webapi
 		source bin/activate
 		
 		export PORT=5002
@@ -165,51 +166,55 @@ Results:
 	heroku container:login
 	```
 
-1. Add these config (environment) variables in the ```fr-2-en-translator``` app:
+1. Add these **config** (environment) variables in the ```fr-2-en-translator``` app:
 	```
 	SOURCE_LANG : fr
 	TARGET_LANG : en
 	```
 
-2. Add these config (environment) variables in the ```en-2-fr-translator``` app:
+2. Add these **config** (environment) variables in the ```en-2-fr-translator``` app:
 	```
 	SOURCE_LANG : en
 	TARGET_LANG : fr
 	```
 
-3. Add these config (environment) variables in the ```en-fr-translator``` app:
+3. Add these **config** (environment) variables in the ```en-fr-translator``` app:
 	```
 	EN_FR_TRANSLATOR_ENDPOINT : https://en-2-fr-translator.herokuapp.com
 	FR_EN_TRANSLATOR_ENDPOINT : https://fr-2-en-translator.herokuapp.com
     LANGUAGE_DETECTOR_ENDPOINT : https://en-fr-language-detector.herokuapp.com
 	```
 
-4. Build, push, and deploy the Docker image to the ```fr-2-en-translator``` app:
-	```
+4. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app:
+	
+	``` bash
 	docker build -t en2fr -f Translator-Webapi/Dockerfile .
 	docker tag en2fr registry.heroku.com/en-2-fr-translator/web
 	docker push registry.heroku.com/en-2-fr-translator/web
 	heroku container:release web --app en-2-fr-translator
 	```
 
-5. Build, push, and deploy the Docker image to the ```en-2-fr-translator``` app:
-	```
+5. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app:
+	
+	``` bash
 	docker build -t fr2en -f Translator-Webapi/Dockerfile .
 	docker tag fr2en registry.heroku.com/fr-2-en-translator/web
 	docker push registry.heroku.com/fr-2-en-translator/web
 	heroku container:release web --app fr-2-en-translator
 	```
 
-6. Build, push, and deploy the Docker image to the ```en-fr-language-detector``` app:
-	```
+6. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-language-detector``` app:
+	
+	``` bash
 	docker build -t language-detector -f Language-Detector-Webapi/Dockerfile .
 	docker tag language-detector registry.heroku.com/en-fr-language-detector/web
 	docker push registry.heroku.com/en-fr-language-detector/web
 	heroku container:release web --app en-fr-language-detector
 	```
 
-7. Build, push, and deploy the Docker image to the ```en-fr-translator``` app:
-	```
+7. In the **project root directory**, build, push, and deploy the Docker image to the ```en-fr-translator``` app:
+	
+	```bahs
 	docker build -t en-fr -f Webapp/Dockerfile .
 	docker tag en-fr registry.heroku.com/en-fr-translator/web
 	docker push registry.heroku.com/en-fr-translator/web
@@ -219,6 +224,8 @@ Results:
 ## Built With
 
 * [PyTorch](https://pytorch.org/) - The machine learning framework used
+* [Spacy](https://spacy.io/) - Used to do sentence and word tokenization in the translator
+* [Ntlk](https://www.nltk.org/) - Used to do word tokenization in the language detector
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 
 ## Authors
