@@ -28,7 +28,6 @@ It should detect the language and translate your text as you type.
 
 
 ## Getting Started
-This is the fastest way to get started with the web app.
 
 ### Prerequisites
 * Unix machine
