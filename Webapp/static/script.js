@@ -73,8 +73,9 @@ $('document').ready(() => {
         getStatusWebService.waitForStatus(5)
             .then(() => {
                 console.log("Success in contacting with server");
+
+                // Note: there is a min. 500 ms after calling modal.show() before calling modal.hide()
                 var timeEllapsed = new Date() - loadingModalTime;
-                console.log(timeEllapsed);
 
                 if (timeEllapsed < 500) {
                     setTimeout(() => {
@@ -89,6 +90,7 @@ $('document').ready(() => {
                 console.error("Error in getting status from server:");
                 console.error(error);
 
+                // Note: there is a min. 500 ms after calling modal.show() before calling modal.hide()
                 var timeEllapsed = new Date() - loadingModalTime;
 
                 if (timeEllapsed < 500) {
