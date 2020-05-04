@@ -89,4 +89,25 @@ class GetStatusWebService {
         const url = this.hostUrl + "/api/v1/status";
         return axios.get(url);
     }
+
+    waitForStatus(numRepeat) {
+        return new Promise((resolve, reject) => {
+            var waitForStatusHelper = (numRepeat, prevError) => {
+                if (numRepeat > 0) {
+                    this.getStatus()
+                        .then(() => {
+                            resolve();
+                        })
+                        .catch(error => {
+                            waitForStatusHelper(numRepeat - 1, error);
+                        });
+
+                } else {
+                    reject(prevError);
+                }
+            };
+    
+            waitForStatusHelper(numRepeat, null);
+        });
+    }
 }

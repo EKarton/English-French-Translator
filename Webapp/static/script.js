@@ -2,8 +2,7 @@
 
 $('document').ready(() => {
 
-    const ENDPOINT = "https://en-fr-translator.herokuapp.com";
-    // const ENDPOINT = "http://localhost:5000";
+    const ENDPOINT = window.location.href;
 
     var sourceLangOption = $("#source-lang-dropdown")
     var targetLangOption = $("#target-lang-dropdown")
@@ -57,15 +56,57 @@ $('document').ready(() => {
         console.error(error);
     });
 
+    var loadingModalTime = new Date();
+    $('#loadingModal').modal({
+        keyboard: false,
+        backdrop: "static",
+        show: true
+    });
+
+    $('#errorModal').modal({
+        keyboard: false,
+        backdrop: "static",
+        show: false
+    });
+
     var getStatusWebService = new GetStatusWebService(ENDPOINT);
-    getStatusWebService.getStatus()
-        .then(() => {
-            console.log("Success in contacting with server");
-        })
-        .catch(error => {
-            console.error("Error in getting status from server:");
-            console.error(error);
-        });
+        getStatusWebService.waitForStatus(5)
+            .then(() => {
+                console.log("Success in contacting with server");
+                var timeEllapsed = new Date() - loadingModalTime;
+                console.log(timeEllapsed);
+
+                if (timeEllapsed < 500) {
+                    setTimeout(() => {
+                        $("#loadingModal").modal("hide");
+                    }, 500);   
+
+                } else {
+                    $("#loadingModal").modal("hide");
+                }
+            })
+            .catch(error => {
+                console.error("Error in getting status from server:");
+                console.error(error);
+
+                var timeEllapsed = new Date() - loadingModalTime;
+
+                if (timeEllapsed < 500) {
+                    setTimeout(() => {
+                        $("#loadingModal").modal("hide");
+                        $("#errorModal").modal("show");
+                    }, 500);   
+                                 
+                } else {
+                    $("#loadingModal").modal("hide");
+                    $("#errorModal").modal("show");
+                }
+            });
+
+    $("#error-modal-reload-pg-button").click(() => {
+        location.reload();
+    });
+    
 
     $(".dropdown-item").click(function () {
 

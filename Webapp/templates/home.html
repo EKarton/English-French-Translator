@@ -69,20 +69,53 @@
                 <h6>Some Examples:</h6>
                 <ul>
                     <li>"You are being summoned for the purposes of Jury selection."</li>
-                    <li>"As a juror, if you do not attend on the required date of 4 June 2019, you will be liable to the penalties provided by the Juries act"</li>
+                    <li>"As a juror, if you do not attend on the required date of 4 June 2019, you will be liable to the
+                        penalties provided by the Juries act"</li>
                     <li>"We propose a new simple network architecture, based solely on attention mechanisms"</li>
                 </ul>
                 <h6>Note:</h6>
                 <ul>
-                    <li>This was trained on a small 753,878 sentence pairs with 25,864 English and 34,058 French words</li>
+                    <li>This was trained on a small 753,878 sentence pairs with 25,864 English and 34,058 French words
+                    </li>
                     <li>
-                        It translates political sentences better than colloquial sentences because it was mostly trained on a government corpus
+                        It translates political sentences better than colloquial sentences because it was mostly trained
+                        on a government corpus
                     </li>
                 </ul>
             </div>
-        </div>    
+        </div>
     </div>
-    
+
+    <!-- Loading Modal -->
+    <div class="modal fade" id="loadingModal" tabindex="-1" role="dialog" aria-labelledby="smallModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-body model-body-center">
+                    <img src="/static/Dual Ring-1s-64px.svg">
+                    <h4 class="modal-body-text">Loading</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div class="modal fade" id="errorModal" tabindex="-1" role="dialog" aria-labelledby="smallModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Error</h5>
+                </div>
+                <div class="modal-body">
+                    There was an error with loading the web app. Please try again later.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="error-modal-reload-pg-button">Reload the page</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Axios scripts -->
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>

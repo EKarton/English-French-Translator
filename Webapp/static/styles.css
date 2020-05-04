@@ -53,3 +53,14 @@ body {
     display: inline-block;
     max-width: 600px;
 }
+
+.modal-body-text {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: larger;
+    margin-top: 30px;
+}
+
+.model-body-center {
+    margin-top: 30px;
+    text-align: center;
+}

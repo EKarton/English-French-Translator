@@ -59,16 +59,20 @@ class LanguageDetectorWebService:
         url = self.url + "/api/v1/status"
         is_successful = False
 
-        async with session.get(url) as response:
-            print(f"Trying to get status of ({url})")
-            try:
-                response = await session.request(method="GET", url=url)
-                response.raise_for_status()
-                print(f"Response status ({url}): {response.status}")
-                is_successful = True
+        try:
+            async with session.get(url) as response:
+                print(f"Trying to get status of ({url})")
+                try:
+                    response = await session.request(method="GET", url=url)
+                    print(response)
+                    response.raise_for_status()
+                    print(f"Response status ({url}): {response.status}")
+                    is_successful = True
 
-            except Exception as error:
-                print(f"An error ocurred while trying {url}: {error}")
+                except Exception as error:
+                    print(f"An error ocurred while trying {url}: {error}")
+        except Exception as error:
+            print(f"An error ocurred while trying {url}: {error}")
 
         return is_successful
 
@@ -151,7 +155,7 @@ def get_status():
     if all(responses):
         return "ok", 200
     else:
-        return responses, 500
+        return "fail", 500
 
 
 @app.route("/")
