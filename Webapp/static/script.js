@@ -14,7 +14,15 @@ $('document').ready(() => {
 
     var translator = new OnDemandTranslator(ENDPOINT,
         translatedText => {
-            targetTextbox.value = translatedText;
+
+            if (translator.hasDataToSend()) {
+                targetTextbox.value = "";
+                targetTextbox.placeholder = "Translating...";
+
+            } else {
+                targetTextbox.placeholder = "";
+                targetTextbox.value = translatedText;
+            }
 
         }, error => {
             console.error(error);
@@ -47,9 +55,12 @@ $('document').ready(() => {
 
         if (sourceText.length == 0) {
             targetTextbox.value = "";
+            targetTextbox.placeholder = "";
 
         } else {
             translator.translate(sourceText, sourceLang, targetLang);
+            targetTextbox.placeholder = "Translating...";
+            targetTextbox.value = "";
         }
 
     }, error => {
@@ -161,9 +172,13 @@ $('document').ready(() => {
 
         } else if (selectedSourceLang == "auto") {
             languageDetector.predictLanguage(sourceText);
+            targetTextbox.value = "";
+            targetTextbox.placeholder = "Translating...";
 
         } else {
             translator.translate(sourceText, selectedSourceLang, selectedTargetLang);
+            targetTextbox.value = "";
+            targetTextbox.placeholder = "Translating...";
         }
     });
 });

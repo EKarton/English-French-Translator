@@ -42,6 +42,10 @@ class OnDemandWebService {
 
         this.__run__();
     }
+
+    hasDataToSend() {
+        return this.dataToSend != null;
+    }
 }
 
 class OnDemandTranslator extends OnDemandWebService {
