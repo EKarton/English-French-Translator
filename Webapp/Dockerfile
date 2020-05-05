@@ -1,14 +1,9 @@
-FROM pytorch/pytorch:latest
+FROM python:3
 
 ENV EN_FR_TRANSLATOR_ENDPOINT http://localhost:5001
 ENV FR_EN_TRANSLATOR_ENDPOINT http://localhost:5002
 
 WORKDIR /app
-
-COPY ["./Translator/models/Hansard-Multi30k", "./Translator/models/Hansard-Multi30k"]
-
-COPY ["./Translator/src/dataloader", "./Translator/src/dataloader"]
-COPY ["./Translator/src/model", "./Translator/src/model"]
 
 COPY ["./Webapp/static", "./Webapp/static"]
 COPY ["./Webapp/templates", "./Webapp/templates"]
