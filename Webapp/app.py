@@ -7,11 +7,6 @@ from aiohttp import ClientSession
 import argparse
 from os import environ
 
-from models import Tokenizer
-
-english_tokenizer = None
-french_tokenizer = None
-
 english_to_french_translator = None
 french_to_english_translator = None
 language_detector = None
@@ -21,6 +16,7 @@ app = Flask(__name__)
 
 class TranslatorWebService:
     def __init__(self, url):
+        ''' Initialize the web service '''
         self.url = url
 
     async def get_service_status_async(self, session):
@@ -40,19 +36,31 @@ class TranslatorWebService:
 
         return is_successful
 
-    def get_translated_tokens(self, source_lang: str, target_lang: str, tokens: list):
+    def translate_text(self, text):
+        ''' Translate text from a web service
+
+            Parameters
+            ----------
+            text : str
+                The text to translate
+
+            Returns
+            -------
+            translated_text : str
+                The translated text
+        '''
+
         url = self.url + "/api/v1/translate"
-        response = requests.post(url, json={"input_tokens": tokens})
+        response = requests.post(url, json={"input_text": text})
         response.raise_for_status()
 
-        translated_tokens = [
-            int(token) for token in response.text.split(",") if token.isdigit()
-        ]
-        return translated_tokens
+        translated_text = response.text
+        return translated_text
 
 
 class LanguageDetectorWebService:
     def __init__(self, url):
+        ''' Initialize the web service '''
         self.url = url
 
     async def get_service_status_async(self, session):
@@ -77,11 +85,24 @@ class LanguageDetectorWebService:
         return is_successful
 
     def predict_language(self, text: str):
+        ''' Predicts the language of text by calling a web service
+
+            Parameters
+            ----------
+            text : str
+                The text with the unknown langauge
+            
+            Returns
+            -------
+            language : str
+                The predicted langauge of the text {'en', 'fr'}
+        '''
         url = self.url + "/api/v1/predict"
         response = requests.post(url, json={"input_text": text})
         response.raise_for_status()
 
-        return response.text
+        language = response.text
+        return language
 
 
 def get_status_of_all_services():
@@ -103,7 +124,6 @@ def get_status_of_all_services():
 
 @app.route("/api/v1/translate", methods=["POST"])
 def get_translation():
-    global english_tokenizer, french_tokenizer
     global english_to_french_translator, french_to_english_translator
 
     json_body = request.get_json()
@@ -119,18 +139,10 @@ def get_translation():
         return input_text, 200
 
     elif source_lang == "en" and target_lang == "fr":
-        tokens, num_vals, unk_vals = english_tokenizer.tokenize(input_text)
-        translated_tokens = english_to_french_translator.get_translated_tokens(
-            source_lang, target_lang, tokens
-        )
-        return french_tokenizer.detokenize(translated_tokens, num_vals, unk_vals), 200
+        return english_to_french_translator.translate_text(input_text), 200
 
     elif source_lang == "fr" and target_lang == "en":
-        tokens, num_vals, unk_vals = french_tokenizer.tokenize(input_text)
-        translated_tokens = french_to_english_translator.get_translated_tokens(
-            source_lang, target_lang, tokens
-        )
-        return english_tokenizer.detokenize(translated_tokens, num_vals, unk_vals), 200
+        return french_to_english_translator.translate_text(input_text), 200
 
     else:
         return "Illegal!", 400
@@ -151,6 +163,7 @@ def get_language():
 @app.route("/api/v1/status", methods=["GET"])
 def get_status():
     responses = get_status_of_all_services()
+    print(responses)
 
     if all(responses):
         return "ok", 200
@@ -168,14 +181,7 @@ if __name__ == "__main__":
     parser.add_argument("--port", metavar="p", type=int, default=5000, help="Port")
     opts = parser.parse_args()
 
-    # Set up the tokenizer and the services
-    english_tokenizer = Tokenizer(
-        "en", "../Translator/models/Hansard-Multi30k/vocab.inf.5.english.gz"
-    )
-    french_tokenizer = Tokenizer(
-        "fr", "../Translator/models/Hansard-Multi30k/vocab.inf.5.french.gz"
-    )
-
+    # Set up the services
     english_to_french_translator = TranslatorWebService(
         environ.get("EN_FR_TRANSLATOR_ENDPOINT", "http://localhost:5001")
     )

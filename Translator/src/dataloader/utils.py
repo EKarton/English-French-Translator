@@ -217,6 +217,6 @@ def get_spacy_instance(lang, spacy_namespace=None):
             raise Exception("Unknown language: " + lang)
 
     spacy_instance = spacy.load(spacy_namespace, disable=["parser", "ner"])
-    # spacy_instance.add_pipe(spacy_instance.create_pipe("sentencizer"))
+    spacy_instance.add_pipe(spacy_instance.create_pipe("sentencizer"))
 
     return spacy_instance

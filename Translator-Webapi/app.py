@@ -16,20 +16,20 @@ def get_translation():
 
     json_body = request.get_json()
 
-    if "input_tokens" not in json_body:
-        return "Must have input tokens", 400
+    if "input_text" not in json_body:
+        return "Must have input text", 400
 
-    tokens = json_body["input_tokens"]
+    text = json_body["input_text"]
 
-    if len(tokens) == 0:
-        return "Must have valid integer input tokens in request body", 400
+    if len(text) == 0:
+        return "Must have a character in the input text", 400
 
-    print(f"tokens={tokens}")
+    print(f"input_text={text}")
 
-    translated_tokens = translator.predict(tokens)
+    translated_text = translator.translate_text(text)
 
-    print(f"translated_tokens={translated_tokens}")
-    return ",".join([str(token) for token in translated_tokens]), 200
+    print(f"translated_text={translated_text}")
+    return translated_text, 200
 
 
 @app.route("/api/v1/status", methods=["GET"])
@@ -47,6 +47,8 @@ if __name__ == "__main__":
     if opts.source_lang == "en" and opts.target_lang == "fr":
         print("Making english to french translator")
         translator = Translator(
+            opts.source_lang,
+            opts.target_lang,
             "../Translator/models/Hansard-Multi30k/vocab.inf.5.english.gz",
             "../Translator/models/Hansard-Multi30k/vocab.inf.5.french.gz",
             "../Translator/models/Hansard-Multi30k/model.en.fr.pt",
@@ -55,6 +57,8 @@ if __name__ == "__main__":
     elif opts.source_lang == "fr" and opts.target_lang == "en":
         print("Making french to english translator")
         translator = Translator(
+            opts.source_lang,
+            opts.target_lang,
             "../Translator/models/Hansard-Multi30k/vocab.inf.5.french.gz",
             "../Translator/models/Hansard-Multi30k/vocab.inf.5.english.gz",
             "../Translator/models/Hansard-Multi30k/model.fr.en.pt",
