@@ -18,4 +18,7 @@ WORKDIR "/app/Translator-Webapi"
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
+RUN python -m spacy download en_core_web_sm
+RUN python -m spacy download fr_core_news_sm
+
 CMD python app.py --source-lang $SOURCE_LANG --target-lang $TARGET_LANG

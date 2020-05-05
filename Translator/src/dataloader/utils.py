@@ -215,8 +215,9 @@ def get_spacy_instance(lang, spacy_namespace=None):
             spacy_namespace = "fr_core_news_sm"
         else:
             raise Exception("Unknown language: " + lang)
-
-    spacy_instance = spacy.load(spacy_namespace, disable=["parser", "ner"])
-    spacy_instance.add_pipe(spacy_instance.create_pipe("sentencizer"))
+    
+    # For sentence segmentation, we are using dependency parse
+    # To use rule-based sentence segmentation, follow https://spacy.io/usage/linguistic-features#sbd-component
+    spacy_instance = spacy.load(spacy_namespace)
 
     return spacy_instance

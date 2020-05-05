@@ -204,18 +204,18 @@ Results:
 	heroku container:login
 	```
 
-1. On the **Heroku webpage**, add these **config** (environment) variables in the ```fr-2-en-translator``` app:
-
-	```
-	SOURCE_LANG : fr
-	TARGET_LANG : en
-	```
-
 2. On the **Heroku webpage**, add these **config** (environment) variables in the ```en-2-fr-translator``` app:
 
 	```
 	SOURCE_LANG : en
 	TARGET_LANG : fr
+	```
+
+3. On the **Heroku webpage**, add these **config** (environment) variables in the ```fr-2-en-translator``` app:
+
+	```
+	SOURCE_LANG : fr
+	TARGET_LANG : en
 	```
 
 3. On the **Heroku webpage**, add these **config** (environment) variables in the ```en-fr-translator``` app:
@@ -226,7 +226,7 @@ Results:
     LANGUAGE_DETECTOR_ENDPOINT : https://en-fr-language-detector.herokuapp.com
 	```
 
-4. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app by **running the following commands**:
+4. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app by **running the following commands**:
 	
 	```bash
 	docker build -t en2fr -f Translator-Webapi/Dockerfile .
@@ -235,7 +235,7 @@ Results:
 	heroku container:release web --app en-2-fr-translator
 	```
 
-5. In the **project root directory**, build, push, and deploy the Docker image to the ```en-2-fr-translator``` app by **running the following commands**:
+5. In the **project root directory**, build, push, and deploy the Docker image to the ```fr-2-en-translator``` app by **running the following commands**:
 	
 	```bash
 	docker build -t fr2en -f Translator-Webapi/Dockerfile .

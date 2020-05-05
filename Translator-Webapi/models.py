@@ -96,6 +96,13 @@ class Translator:
         del source_word2id, target_word2id
 
     def __build_model__(self):
+        """ Create the Translator model for the CPU
+
+            Returns
+            -------
+            model : Transformer
+                The transformer
+        """
         device = torch.device("cpu")
 
         encoder = Encoder(
@@ -165,7 +172,7 @@ class Translator:
 
         return tokens, num_vals, unk_vals
 
-    def __detokenize_translated_sentence_tokens__(
+    def __detokenize_translated_sentence__(
         self, sentence_tokens, num_vals, unk_vals
     ):
         """ Detokenizes a set of translated sentence tokens to human-readable text
@@ -258,10 +265,15 @@ class Translator:
             translated_sentence : str
                 The translated sentence
         """
-
+        
+        # Tokenize the sentence
         tokens, num_vals, unk_vals = self.__tokenize_sentence__(sentence)
+
+        # Translate the tokens to the target language
         translated_tokens = self.__translate_sentence_tokens__(tokens)
-        translated_sentence = self.__detokenize_translated_sentence_tokens__(
+
+        # Translate the translated tokens back to a sentence
+        translated_sentence = self.__detokenize_translated_sentence__(
             translated_tokens, num_vals, unk_vals
         )
 

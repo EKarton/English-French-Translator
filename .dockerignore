@@ -22,5 +22,4 @@
 !Webapp/static/
 !Webapp/templates/
 !Webapp/app.py
-!Webapp/models.py
 !Webapp/requirements.txt

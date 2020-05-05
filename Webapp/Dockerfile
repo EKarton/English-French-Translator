@@ -13,15 +13,11 @@ COPY ["./Translator/src/model", "./Translator/src/model"]
 COPY ["./Webapp/static", "./Webapp/static"]
 COPY ["./Webapp/templates", "./Webapp/templates"]
 COPY ["./Webapp/app.py", "./Webapp/app.py"]
-COPY ["./Webapp/models.py", "./Webapp/models.py"]
 COPY ["./Webapp/requirements.txt", "./Webapp/requirements.txt"]
 
 WORKDIR "/app/Webapp"
 
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
-
-RUN python -m spacy download en_core_web_sm
-RUN python -m spacy download fr_core_news_sm
 
 CMD python app.py
