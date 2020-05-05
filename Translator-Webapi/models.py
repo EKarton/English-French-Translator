@@ -172,9 +172,7 @@ class Translator:
 
         return tokens, num_vals, unk_vals
 
-    def __detokenize_translated_sentence__(
-        self, sentence_tokens, num_vals, unk_vals
-    ):
+    def __detokenize_translated_sentence__(self, sentence_tokens, num_vals, unk_vals):
         """ Detokenizes a set of translated sentence tokens to human-readable text
 
             Parameters
@@ -265,7 +263,7 @@ class Translator:
             translated_sentence : str
                 The translated sentence
         """
-        
+
         # Tokenize the sentence
         tokens, num_vals, unk_vals = self.__tokenize_sentence__(sentence)
 
@@ -294,7 +292,10 @@ class Translator:
         """
         sentences = self.spacy_instance(text).sents
         translated_text = " ".join(
-            [self.__translate_sentence__(sentence.text) for sentence in sentences]
+            [
+                self.__translate_sentence__(sentence.text).capitalize()
+                for sentence in sentences
+            ]
         )
 
         return translated_text
