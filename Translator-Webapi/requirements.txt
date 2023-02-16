@@ -32,5 +32,5 @@ tqdm==4.45.0
 typed-ast==1.4.1
 urllib3==1.26.5
 wasabi==0.6.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 zipp==3.1.0
